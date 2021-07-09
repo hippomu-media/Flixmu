@@ -1,0 +1,112 @@
+---
+layout: default
+---
+<!--[ <body> open ]-->
+<body class='gridLayout onItem onPost' id='mainContent'>
+{% include header.html %}
+<style>
+body{-webkit-font-smoothing:antialiased}.blogContent{display:block}.onPost .blogContent .mainbar{margin-left:auto;margin-right:auto}.onPost .blogContent .sidebar{max-width:var(--post-maxContent);margin-left:auto;margin-right:auto;display:none}.media-info-wrapper{margin-top:0px;color:#000}.general-info-wrapper{position:relative;min-height:100%}.thumbnail{width:100%;height:100%;object-fit:cover}.media-metadata-wrapper{position:absolute;bottom:20%;left:75px;z-index:1}.media-title{font-weight:300;font-size:30px}.media-metadata{display:flex;align-items:center;font-weight:400;font-size:14px;line-height:16px;margin-bottom:20px}.media-metadata p{margin:0 10px}.media-metadata p:first-child{margin-left:0}.media-metadata .rating,.score{border:1px solid #000;border-radius:3px;padding:0 6px}.media-metadata-wrapper a{margin-bottom:10px;position:relative;background:#148d00;color:#fff;border-radius:5px;padding:8px 60px;text-align:center;font-weight:700;font-size:15px;line-height:20px;outline:none;border:none;cursor:pointer}.media-metadata-wrapper a.not-subscribed-button{background:#f49832}.media-metadata-wrapper a:before{position:absolute;top:calc(50% - 7px);left:40px;border-radius:1px;border-top:7px solid transparent;border-bottom:7px solid transparent;border-left:12px solid #fff;content:""}.description{font-size:14px;line-height:22px;align-items:center;padding:0px}.gradient-bottom{position:absolute;width:100%;height:60%;background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,76.9%,0)),color-stop(80%,#fafafc));background:linear-gradient(180deg,hsla(0,0%,76.9%,0),#fefefe 80%);bottom:-5px}.casting{padding:0 75px;margin-bottom:40px}.casting h3{margin:15px 0 5px}.darkMode .gradient-bottom{position:absolute;width:100%;height:60%;background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,76.9%,0)),color-stop(80%,#fafafc));background:linear-gradient(180deg,hsla(0,0%,76.9%,0),#1e1e1e 80%);bottom:-5px}.casting{padding:0 75px;margin-bottom:40px}.casting h3{margin:15px 0 5px}.video {overflow: hidden;padding-top: 56.25%;position: relative;} .video iframe, .lazyYoutube{background: black;position: absolute;margin: 0;top: 0;left: 0;border: 0;width: 100%;height: 100%;}#player,.card-view{display:none;}
+@media screen and (max-width:896px){.onPost .blogContent .sidebar{display:none}}
+@media screen and (max-width:1024px){.media-metadata-wrapper{left:45px}.casting,.description{padding:0px}}
+@media screen and (max-width:526px){.media-metadata-wrapper{left:25px}.casting,.description{padding:0px}}
+@media screen and (max-width:486px){
+.thumbnail{height:100%}
+.media-metadata-wrapper{bottom:0;width:calc(100% - 50px)}
+.media-title{font-size:18px}
+.media-metadata{font-size:12px}
+.media-metadata p{margin:0 3px}
+.media-metadata-wrapper a{width:100%}
+.description{margin-top:25px}.casting{font-size:14px}}
+</style>
+<script>
+$(document).ready(function(){
+$('.card-view').show();});
+	function getParameterByName(name, url) {
+	    if (!url) url = window.location.href;
+	    name = name.replace(/[\[\]]/g, "\\$&");
+	    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+	        results = regex.exec(url);
+	    if (!results) return null;
+	    if (!results[2]) return '';
+	    return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+	var dynamicContent = getParameterByName('uc');
+
+	 $(document).ready(function() {
+		if (dynamicContent == 'media') {
+			$('#player').show();
+            $('.card-view').hide();
+		} 
+	});
+</script>
+<div class='card-view'>
+<div class='media-info-wrapper'>
+<div class='general-info-wrapper'>
+<img class="thumbnail" src="/media/anime/{{ page.data }}/thumbnail.webp"/>
+<div class='media-metadata-wrapper' id='result-container'>
+<div class="media-title">{{ page.title }}</div>
+<span class="media-genre">{{ page.genre | join: ', '}}</span>
+<div class="media-metadata">
+<p>{{ page.premiered }}</p>
+<p id="type"/>
+<p class="rating">{{ page.rating }}</p>
+<p class="score">&#9733; <span id="score"/></p>
+</div>
+<a class='not-subscribed-button' href='{{ page.url }}?uc=media' id='popup-btn'>Watch Now</a>
+</div>
+<div class='gradient-bottom'></div>
+</div>
+</div>
+</div>
+<div id='player'>
+<div class='video'>
+<div class='lazyYoutube' data-embed='{{ page.trailer }}'>
+  <div class='playBut'>
+    <svg class='svg-play' viewbox='0 0 213.7 213.7'><polygon class='triangle' points='73.5,62.5 148.5,105.8 73.5,149.1'></polygon><circle class='circle' cx='106.8' cy='106.8' r='103.3'></circle></svg>
+  </div>
+</div>
+</div>
+<nav class='scrollMenu'>
+<div class='sectionInner section' id='nav-menu'>
+<div class='widget LinkList'>
+<ul class="episode">
+{% assign video = site.video | where: "category", page.data %}
+{% for video in video %}
+<li><a data-text="{{ video.episode }}" href="{{ video.url }}"></a></li>
+{% endfor %}
+</ul>
+</div>
+</div>
+</nav>
+</div>
+
+<script>
+var x=new XMLHttpRequest;
+x.onload=function(){
+var d = document,
+score = d.getElementById("score"),
+type = d.getElementById("type"),
+t = JSON.parse(this.responseText);
+score.innerHTML= t.score;
+type.innerHTML= t.type;
+},
+x.open("GET","https://api.jikan.moe/v3/anime/{{ page.data }}",!0),x.send()
+</script>
+
+<!--[ Blog article ]-->
+<div class='blogContent sectionInner'>
+<!--[ Main content ]-->
+<main class='mainbar'>
+<div class='section' id='main-widget'>
+<div class='widget Blog'>
+<div class='blogPosts'>
+{% include anime-content.html %}
+{% include post-footer.html %}
+</div>
+</div>
+
+</div>
+</main>
+<!--[ Sidebar content ]-->
+{% include sidebar.html %}
+</div>
