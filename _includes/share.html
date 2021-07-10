@@ -29,10 +29,10 @@
 <div class='preview'>
 <div class='previewImg lazy' data-bg='
 {% if page.layout != 'video' %}
-/media/anime/{{ page.data }}/{{ page.slug }}.webp
+https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ page.data }}/thumbnail.webp&w=250&h=250&output=webp
 {% endif %}
 {% if page.layout == 'video' %}
-/media/anime/{{ page.category }}/{{ page.slug }}.webp
+https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ page.category }}/{{ page.slug }}.webp&w=250&h=250&output=webp
 {% endif %}
 '></div>
 <div class='previewContent'>
