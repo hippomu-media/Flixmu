@@ -49,7 +49,7 @@ layout: default
 var hls = null;
 var art = new Artplayer({
 container: '.artplayer-app',
-poster: '/media/anime/{{ page.category }}/{{ page.slug }}.webp',
+poster: '/media/{{ page.tag }}/{{ page.category }}/{{ page.slug }}.webp',
 url:'{{ page.size_d }}',
 customType: {m3u8: function (video, url) {if (hls) hls.destroy();hls = new Hls();hls.loadSource(url);hls.attachMedia(video);},},
 volume: 0.5,
