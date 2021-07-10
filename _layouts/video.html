@@ -19,6 +19,7 @@ layout: default
 <div class='sectionInner section' id='nav-menu'>
 <div class='widget LinkList'>
 <ul class="episode">
+<li>Episode:</li>
 {% assign video = site.video | where: "category", page.category %}
 {% for video in video %}
 <li><a data-text="{{ video.episode }}" href="{{ video.url }}"></a></li>
