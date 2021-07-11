@@ -64,11 +64,17 @@ fullscreenWeb: false,
 whitelist: ['*'],
 subtitle: {url:'{{ page.in }}',},
 quality: [
+{% if page.size_g %}
+{name: '144',url: '{{ page.size_g }}',},
+{% endif %}
 {% if page.size_a %}
 {name: '180',url: '{{ page.size_a }}',},
 {% endif %}
 {% if page.size_b %}
 {name: '240',url: '{{ page.size_b }}',},
+{% endif %}
+{% if page.size_h %}
+{name: '270',url: '{{ page.size_h }}',},
 {% endif %}
 {% if page.size_c %}
 {name: '360',url: '{{ page.size_c }}',},
@@ -92,6 +98,9 @@ controls: [{position: 'right',html: 'Subtitle',selector:[
 {% endif %}
 {% if page.ch %}
 {name: 'Chinese',url:'{{ page.ch }}',},
+{% endif %}
+{% if page.th %}
+{name: 'Thailand',url:'{{ page.th }}',},
 {% endif %}
 {% if page.ms %}
 {name: 'Malaysia',url:'{{ page.ms }}',},
