@@ -1,1362 +1,1331 @@
 1
-00:00:01,780 --> 00:00:02,836
-Pada hari itu
+00:00:07,780 --> 00:00:13,950
+Hari itu, semua orang di dunia berubah menjadi batu.
 
 2
-00:00:03,378 --> 00:00:05,942
-semua manusia di planet ini
+00:00:15,050 --> 00:00:16,760
+Dengar, Senku!
 
 3
-00:00:06,560 --> 00:00:07,981
-berubah menjadi batu!
+00:00:16,760 --> 00:00:18,160
+Aku sudah memutuskan.
 
 4
-00:00:08,840 --> 00:00:10,460
-Senku, dengarkan aku
+00:00:18,160 --> 00:00:22,980
+Aku akan mengakui perasaanku terhadap Yuzuriha selama lima tahun terakhir!
 
 5
-00:00:10,460 --> 00:00:11,890
-Aku sudah memutuskan!
+00:00:23,450 --> 00:00:24,750
+Ya?
 
 6
-00:00:11,890 --> 00:00:13,722
-Hari ini, aku harus mengungkapkan
+00:00:24,750 --> 00:00:28,240
+Yah, itu pasti terdengar menarik.
 
 7
-00:00:13,722 --> 00:00:17,308
-perasaanku selama 5 tahun ini kepada Yuzu
+00:00:28,240 --> 00:00:30,920
+Aku akan menyemangatimu begitu keras sampai pita suaraku patah.
 
 8
-00:00:18,850 --> 00:00:22,000
-Kedengarannya menarik sekali
+00:00:30,920 --> 00:00:32,840
+Dari sini di lab sains ini.
 
 9
-00:00:22,000 --> 00:00:25,150
-Aku akan meneriakkan dukunganku
+00:00:32,840 --> 00:00:34,410
+Kamu akan?
 
 10
-00:00:25,150 --> 00:00:26,840
-sekuat tenaga dari ruang lab ini
+00:00:34,410 --> 00:00:35,990
+Terima kasih, Senku!
 
 11
-00:00:26,840 --> 00:00:29,660
-Yang benar? Terima kasih ya, Senku
+00:00:35,990 --> 00:00:40,180
+Diam. Saya tidak mendukung satu milimeter untuk Anda, Anda bodoh.
 
 12
-00:00:29,660 --> 00:00:33,850
-Diamlah, aku gak berniat mendukungmu
-sama sekali, dasar anak bodoh
+00:00:40,180 --> 00:00:40,890
+Apa?!
 
 13
-00:00:33,910 --> 00:00:35,840
-Apa? Jadi apa maksudmu?
+00:00:40,890 --> 00:00:41,980
+Tentukan pilihanmu!
 
 14
-00:00:35,840 --> 00:00:38,360
-Lagipula, selama 5 tahun pun
-kamu tidak mengungkapkan perasaanmu
+00:00:41,980 --> 00:00:44,600
+Dan Anda tidak mengatakan apa-apa selama lima tahun?
 
 15
-00:00:38,420 --> 00:00:40,470
-Kamu memang bodoh. Itu gak masuk akal
+00:00:44,600 --> 00:00:46,890
+Seberapa tidak logisnya kamu, idiot?
 
 16
-00:00:40,530 --> 00:00:43,960
-Nih, aku kasih sesuatu yang cocok sekali buat kamu
+00:00:46,890 --> 00:00:50,300
+Aku punya sesuatu untukmu yang sangat logis.
 
 17
-00:00:43,960 --> 00:00:49,410
-Ini adalah obat cinta yang dapat
-mempercepat pelepasan Feromon
+00:00:50,300 --> 00:00:53,210
+Obat yang akan merangsang keluaran feromon Anda secara maksimal.
 
 18
-00:00:49,410 --> 00:00:52,706
-Jika meminum ini
-kamu 10 milyar persen akan berhasil
+00:00:53,210 --> 00:00:55,640
+Ramuan cinta, jika Anda mau.
 
 19
-00:00:56,730 --> 00:00:58,230
-Terima kasih, Senku
+00:00:55,640 --> 00:00:59,080
+Ambil ini, dan Anda siap, sepuluh miliar persen.
 
 20
-00:00:58,230 --> 00:00:59,900
-Namun maafkan aku
+00:01:02,910 --> 00:01:05,660
+Terima kasih, Senku, tapi maaf.
 
 21
-00:00:59,900 --> 00:01:02,029
-aku gak akan bergantung pada trik ini
+00:01:06,100 --> 00:01:07,630
+Saya tidak bisa mengandalkan trik murahan.
 
 22
-00:01:06,990 --> 00:01:10,457
-Ngomong-ngomong, Senku
-obat cinta itu benar-benar berguna?
+00:01:12,990 --> 00:01:14,800
+Serius, Senku?
 
 23
-00:01:10,850 --> 00:01:12,920
-Mana mungkin ada obat seperti itu?
+00:01:14,800 --> 00:01:16,890
+Ramuan cinta?
 
 24
-00:01:12,920 --> 00:01:14,680
-Itu hanya sebotol bensin
+00:01:16,890 --> 00:01:18,730
+Seperti mereka bahkan ada.
 
 25
-00:01:14,680 --> 00:01:17,518
-yang disuling dari plastik botol
+00:01:19,180 --> 00:01:20,470
+Itu hanya bensin.
 
 26
-00:01:17,770 --> 00:01:20,760
-Cobalah pikirkan tentang struktur molekul
-dari Polyethylene-nya, bodoh
+00:01:20,900 --> 00:01:23,460
+Saya memperbaikinya dari tutup botol plastik.
 
 27
-00:01:20,760 --> 00:01:24,480
-Ini hanya sejenis hidrocarbon
-yang dicampur dengan bensin
+00:01:23,990 --> 00:01:27,180
+Pikirkan tentang struktur molekul polietilen, tolol.
 
 28
-00:01:24,480 --> 00:01:26,260
-Sekali lihat juga tahu kan?
+00:01:27,180 --> 00:01:30,700
+Ini hanya molekul bensin panjang dengan beberapa hidrokarbon yang dipotong.
 
 29
-00:01:26,260 --> 00:01:27,320
-Enggak, aku gak mengerti
+00:01:30,700 --> 00:01:32,340
+Anda bisa tahu dengan melihatnya.
 
 30
-00:01:27,320 --> 00:01:28,400
-Siapa yang bisa mengerti?
+00:01:32,340 --> 00:01:33,490
+Tidak, aku tidak bisa.
 
 31
-00:01:28,400 --> 00:01:32,882
-Jadi, kalau ini sampai diminum
-oleh Taiju dia bisa mati dong?
+00:01:33,490 --> 00:01:34,610
+Tidak mungkin.
 
 32
-00:01:33,850 --> 00:01:37,400
-Dia 10 milyar persen gak akan minum
+00:01:34,610 --> 00:01:38,360
+Jadi... bukankah Taiju-kun akan mati jika dia meminumnya?
 
 33
-00:01:37,400 --> 00:01:39,694
-dia adalah anak bodoh yang jujur
+00:01:40,150 --> 00:01:43,120
+Saya sepuluh miliar persen yakin dia tidak akan meminumnya.
 
 34
-00:01:45,030 --> 00:01:45,959
-Yuzu
+00:01:43,120 --> 00:01:45,650
+Bukan idiot yang kaku itu.
 
 35
-00:01:46,440 --> 00:01:48,197
-maaf telah membuatmu menunggu
+00:01:51,050 --> 00:01:52,340
+Yuzuriha!
 
 36
-00:01:49,280 --> 00:01:51,910
-Ada apa, Taiju?
+00:01:52,340 --> 00:01:53,970
+Maaf membuat anda menunggu.
 
 37
-00:01:51,910 --> 00:01:53,393
-Apa yang ingin kamu bicarakan?
+00:01:55,310 --> 00:01:57,720
+Jadi, ada apa, Taiju-kun?
 
 38
-00:01:56,040 --> 00:01:57,610
-Aku bertaruh 100 Yen dia akan ditolak
+00:01:57,720 --> 00:01:59,370
+Apa yang ingin kamu katakan padaku?
 
 39
-00:01:57,610 --> 00:01:59,410
-Aku bertaruh 300 Yen
-dia akan ditolak mentah-mentah
+00:02:01,890 --> 00:02:03,590
+Seratus yen mengatakan dia ditolak.
 
 40
-00:01:59,410 --> 00:02:01,990
-Aku bertaruh 500 Yen
-dia akan ditolak sekuat tenaga
+00:02:03,590 --> 00:02:05,660
+Tiga ratus yen mengatakan dia ditolak keras.
 
 41
-00:02:01,990 --> 00:02:04,790
-Aku bertaruh 10.000 Yen
-dia secara ajaib tidak akan ditolak
+00:02:05,660 --> 00:02:08,290
+Lima ratus yen mengatakan dia ditolak dengan kekuatan penuh.
 
 42
-00:02:04,790 --> 00:02:06,271
-Yang benar saja?
-Yang benar saja?
+00:02:08,290 --> 00:02:11,060
+Sepuluh ribu yen mengatakan dia sebenarnya tidak.
 
 43
-00:02:07,620 --> 00:02:09,430
-Aku takut akan kehilangan dia sebagai teman
+00:02:11,060 --> 00:02:12,270
+Serius?!
 
 44
-00:02:09,430 --> 00:02:12,760
-jika aku mengungkapkan perasaanku
+00:02:13,740 --> 00:02:18,710
+Aku takut dengan mengatakan padanya bagaimana perasaanku, dia bahkan tidak akan menjadi temanku lagi.
 
 45
-00:02:13,220 --> 00:02:16,514
-Jadi aku terus menghindari hal ini
+00:02:19,380 --> 00:02:22,780
+Aku memang pengecut selama ini.
 
 46
-00:02:16,970 --> 00:02:18,801
-Dengarkan aku, Yuzu
+00:02:22,780 --> 00:02:24,740
+Dengarkan aku, Yuzuriha.
 
 47
-00:02:19,210 --> 00:02:21,461
-Namun hari ini, harus
+00:02:25,290 --> 00:02:27,250
+Tapi hari ini.
 
 48
-00:02:21,750 --> 00:02:24,793
-Selama 5 tahun ini…Aku selalu…
+00:02:27,670 --> 00:02:30,580
+Selama lima tahun terakhir, saya...
 
 49
-00:02:29,130 --> 00:02:32,425
-Cahaya…Apa itu?!
+00:02:35,110 --> 00:02:38,510
+Cahaya apa itu?
 
 50
-00:02:46,300 --> 00:02:49,120
-Yuzu, peluk erat pohon kapur itu!
+00:02:52,060 --> 00:02:53,190
+Yuzuriha!
 
 51
-00:02:49,120 --> 00:02:51,497
-Kenapa ini? Tapi…
+00:02:53,190 --> 00:02:55,070
+Berpegangan pada pohon kamper itu!
 
 52
-00:02:54,970 --> 00:02:56,783
-Gak bisa bicara. Tolong
+00:02:55,070 --> 00:02:57,380
+Aku tidak tahu, tapi...
 
 53
-00:02:56,783 --> 00:02:57,886
-Apa yang terjadi?
+00:02:59,820 --> 00:03:01,190
+Apa yang sedang terjadi? Ini sangat gelap.
 
 54
-00:02:57,886 --> 00:02:58,660
-Tolong!
+00:03:00,820 --> 00:03:01,870
+Aku tidak bisa bergerak.
 
 55
-00:02:58,710 --> 00:03:00,867
-Apa yang terjadi?
+00:03:01,190 --> 00:03:02,620
+Aku tidak bisa bicara... Seseorang tolong!
 
 56
-00:03:21,660 --> 00:03:25,902
-Tolong aku! Ibu! Ayah!
+00:03:02,620 --> 00:03:03,920
+Apa yang terjadi?!
 
 57
-00:03:26,920 --> 00:03:32,640
-Apakah aku akan mati seperti ini?
+00:03:02,940 --> 00:03:04,740
+Tolong tolong!
 
 58
-00:03:49,300 --> 00:03:51,112
-Aku belum mati!
+00:03:27,720 --> 00:03:29,020
+Tolong aku...
 
 59
-00:03:51,400 --> 00:03:54,000
-Jika lengah sebentar saja aku akan dilahap
+00:03:29,020 --> 00:03:31,190
+Ibu, Ayah...
 
 60
-00:03:54,000 --> 00:03:55,540
-Aku harus tetap sadar
+00:03:33,050 --> 00:03:37,790
+Apakah aku... akan... mati?
 
 61
-00:03:55,540 --> 00:03:57,630
-Yuzu pasti akan baik-baik saja
+00:03:55,340 --> 00:03:57,500
+Aku tidak mati!
 
 62
-00:03:57,630 --> 00:03:59,640
-Dia pasti selamat
+00:03:57,500 --> 00:04:00,100
+Saya harus tetap fokus, atau itu akan menyedot saya.
 
 63
-00:03:59,640 --> 00:04:02,140
-Aku gak boleh mati dengan sia-sia seperti ini
+00:04:00,100 --> 00:04:01,380
+Bangun, sialan!
 
 64
-00:04:02,140 --> 00:04:04,885
-Kali ini, aku harus
-menyampaikan perasaanku kepada Yuzu
+00:04:01,830 --> 00:04:03,670
+Yuzuriha akan baik-baik saja.
 
 65
-00:04:12,460 --> 00:04:15,422
-Aku harus bertahan hidup dengan tekadku!
+00:04:03,670 --> 00:04:05,390
+Aku yakin dia aman.
 
 66
-00:04:15,790 --> 00:04:19,205
-Tidak peduli perlu berapa minggu
-atau berapa bulan
+00:04:06,010 --> 00:04:08,180
+Aku tidak bisa menjadi pengecut.
 
 67
-00:04:19,710 --> 00:04:23,482
-aku harus ungkapkan padanya
+00:04:08,180 --> 00:04:10,640
+Aku akan mengaku pada Yuzuriha!
 
 68
-00:04:26,580 --> 00:04:30,567
-Sejak saat itu, puluhan, ratusan
-sampai ribuan tahun berlalu
+00:04:18,440 --> 00:04:21,330
+Aku akan bertahan hidup dengan tekad saja!
 
 69
-00:04:30,980 --> 00:04:33,526
-Tidak, aku tidak akan kalah
+00:04:21,930 --> 00:04:24,990
+Entah itu selama berminggu-minggu atau berbulan-bulan...
 
 70
-00:04:33,850 --> 00:04:36,633
-Aku harus mengungkapkan perasaanku pada Yuzu
+00:04:25,820 --> 00:04:29,180
+Aku akan memberitahunya, apa pun yang terjadi!
 
 71
-00:04:37,230 --> 00:04:39,954
-Apapun yang terjadi, aku harus bertahan hidup
+00:04:32,540 --> 00:04:34,360
+Sudah berapa dekade?
 
 72
-00:05:32,210 --> 00:05:35,630
-Berhasil! Aku berhasil keluar!
+00:04:34,360 --> 00:04:35,420
+Abad?
 
 73
-00:05:39,170 --> 00:05:41,671
-Pecahan batu?
+00:04:35,420 --> 00:04:37,130
+ribuan tahun?
 
 74
-00:05:51,440 --> 00:05:55,320
-Jadi, semua orang telah…
+00:04:37,130 --> 00:04:39,380
+Yah, aku tidak menyerah.
 
 75
-00:05:55,760 --> 00:05:57,607
-Ternyata begitu
+00:04:40,110 --> 00:04:42,660
+Aku akan memberitahu Yuzuriha.
 
 76
-00:05:58,460 --> 00:06:02,455
-Sudah berapa lama waktu yang lewat?
+00:04:43,310 --> 00:04:45,260
+Aku akan bertahan, bahkan jika itu membunuhku!
 
 77
-00:06:04,190 --> 00:06:05,560
-Maaf
+00:05:38,340 --> 00:05:39,460
+saya pecah!
 
 78
-00:06:05,560 --> 00:06:09,118
-hanya ini yang dapat kulakukan
+00:05:39,460 --> 00:05:41,370
+Saya membebaskan diri! Akhirnya!
 
 79
-00:06:11,490 --> 00:06:13,860
-Selama tidak terjadi perubahan besar
-pada letak geografis
+00:05:45,170 --> 00:05:47,540
+Fragmen batu?
 
 80
-00:06:13,860 --> 00:06:16,229
-dengan mengikuti sungai ini
-aku pasti dapat kembali
+00:05:57,250 --> 00:05:58,490
+Saya melihat.
 
 81
-00:06:16,690 --> 00:06:18,988
-ke tempat keberadaan pohon kapur itu
+00:05:58,910 --> 00:06:03,350
+Jadi itu terjadi pada semua orang.
 
 82
-00:06:22,790 --> 00:06:24,100
-Ada sesuatu yang jatuh
+00:06:04,430 --> 00:06:08,170
+Berapa lama waktu telah berlalu?
 
 83
-00:06:24,100 --> 00:06:26,780
-Ini patung burung?
+00:06:09,990 --> 00:06:11,010
+Maafkan saya.
 
 84
-00:06:26,780 --> 00:06:28,780
-Orang yang dapat mengukir ini hebat sekali
+00:06:11,890 --> 00:06:14,730
+Hanya ini yang bisa saya lakukan untuk Anda sekarang.
 
 85
-00:06:28,780 --> 00:06:30,480
-Bulu-bulunya diukir dengan sangat detail
+00:06:17,350 --> 00:06:19,860
+Selama medannya tidak terlalu banyak berubah,
 
 86
-00:06:30,480 --> 00:06:32,010
-Terlihat seperti burung asli
+00:06:19,860 --> 00:06:22,020
+Saya harus bisa mengikuti sungai kembali.
 
 87
-00:06:32,010 --> 00:06:33,731
-Bukannya ini burung asli?
+00:06:22,700 --> 00:06:24,980
+Kembali ke pohon kamper itu...
 
 88
-00:06:34,130 --> 00:06:36,229
-Temanku pernah mengirimkan sebuah foto
+00:06:28,420 --> 00:06:30,390
+Hei, sesuatu jatuh.
 
 89
-00:06:36,229 --> 00:06:38,330
-Di tempat lain juga ditemukan
+00:06:30,390 --> 00:06:32,780
+Sebuah ukiran batu burung?
 
 90
-00:06:38,620 --> 00:06:40,160
-Kasihan sekali
+00:06:32,780 --> 00:06:36,450
+Siapa pun yang membuat ini luar biasa. Perhatikan detail pada sayap.
 
 91
-00:06:40,160 --> 00:06:44,968
-Mungkin ini penyakit kulit burung
-yang membuatnya menjadi batu
+00:06:36,450 --> 00:06:37,870
+Ini terlihat sangat nyata.
 
 92
-00:06:50,300 --> 00:06:51,529
-= Jam kerja =
+00:06:37,870 --> 00:06:40,020
+Mungkin itu nyata.
 
 93
-00:06:51,530 --> 00:06:52,890
-= Hari kerja 10,00-19,00 =
-= Sabtu Minggu dan hari libur 10,30-19,30 =
+00:06:40,020 --> 00:06:42,250
+Teman saya bilang dia melihat yang seperti itu di tempat lain.
 
 94
-00:06:52,890 --> 00:06:54,540
-= Hari Binatang =
+00:06:42,250 --> 00:06:44,650
+Dia memposting foto itu.
 
 95
-00:06:54,540 --> 00:06:58,120
-Rumah sakit mana mungkin
-dibuka sebelum kita kuliah?
+00:06:44,650 --> 00:06:46,350
+Hal yang malang...
 
 96
-00:06:58,250 --> 00:07:00,570
-Kamu benar-benar ceroboh
+00:06:46,350 --> 00:06:50,990
+Mungkin, seperti, penyakit burung yang membuat kulitnya mengeras.
 
 97
-00:07:00,570 --> 00:07:01,850
-Yuzu?
+00:06:56,370 --> 00:06:58,960
+hari kerja
 
 98
-00:07:01,850 --> 00:07:06,810
-Sampai menganggap patung sebagai
-burung asli dan dibawa ke rumah sakit
+00:06:56,370 --> 00:06:58,960
+Akhir Pekan, Hari Libur
 
 99
-00:07:07,220 --> 00:07:09,979
-Bodoh sekali. Memalukan
+00:06:56,370 --> 00:06:58,960
+jam
 
 100
-00:07:13,220 --> 00:07:15,180
-Tindakanku yang bodoh ini
+00:06:56,370 --> 00:06:58,960
+Operasi
 
 101
-00:07:15,240 --> 00:07:18,581
-justru dilihat oleh Yuzu yang paling
-tidak kuinginkan untuk melihat
+00:06:58,960 --> 00:07:02,460
+Pekan Advokasi Hewan
 
 102
-00:07:19,810 --> 00:07:21,210
-Dilihat?
+00:07:00,500 --> 00:07:04,340
+Tidak ada kantor dokter hewan yang buka sebelum jam sekolah dimulai.
 
 103
-00:07:21,210 --> 00:07:24,290
-Benar, di sini masih ada satu orang lagi
+00:07:04,340 --> 00:07:06,190
+Anda tidak pernah memikirkan semuanya, bukan?
 
 104
-00:07:24,290 --> 00:07:27,382
-yang melakukan hal ceroboh dan memalukan juga
+00:07:06,540 --> 00:07:07,650
+Yuzuriha!
 
 105
-00:07:30,675 --> 00:07:32,030
-= Rumah Sakit Hewan Ji Ying =
+00:07:07,650 --> 00:07:11,570
+Selain itu, tidak mungkin ukiran itu benar-benar burung.
 
 106
-00:07:32,030 --> 00:07:35,020
-Kenapa? kamu jangan tertawalah
-Kamu juga sama kan?
+00:07:11,570 --> 00:07:13,220
+Dan Anda membawanya ke dokter hewan?
 
 107
-00:07:35,020 --> 00:07:37,841
-Kita berdua sudah terlambat karena ini
+00:07:13,220 --> 00:07:14,540
+Kamu sangat bodoh.
 
 108
-00:07:37,890 --> 00:07:40,111
-Oh, benar juga
+00:07:14,540 --> 00:07:15,870
+Aku malu padamu.
 
 109
-00:07:47,260 --> 00:07:48,987
-Yuzu
+00:07:19,210 --> 00:07:24,390
+Dari semua orang yang kebetulan bertemu denganku saat aku sedang menjadi orang bodoh...
 
 110
-00:07:54,440 --> 00:07:56,471
-Aku gak salah mengenali
+00:07:24,840 --> 00:07:27,000
+Tunggu... Lari ke saya?
 
 111
-00:07:56,580 --> 00:07:58,684
-Walaupun ribuan tahun telah berlalu
+00:07:27,000 --> 00:07:33,050
+Yup, dan inilah anak memalukan lainnya yang tidak memikirkan semuanya.
 
 112
-00:07:59,900 --> 00:08:05,024
-kamu masih selamat, sejak hari itu sampai sekarang
+00:07:33,050 --> 00:07:34,260
+Bayangkan itu!
 
 113
-00:08:18,460 --> 00:08:22,000
-Ternyata kamu masih selamat!
-Bagus sekali, pohon kapur
+00:07:36,720 --> 00:07:43,500
+Rumah Sakit Hewan Shuei
 
 114
-00:08:22,000 --> 00:08:26,428
-Kamu selalu melindungi Yuzu
-dan tidak membiarkan dia terhanyut atau rusak
+00:07:37,980 --> 00:07:39,870
+Ayo, berhenti tertawa.
 
 115
-00:08:28,740 --> 00:08:32,070
-Maafkan aku, karena tidak dapat melindungimu
+00:07:39,870 --> 00:07:41,070
+Anda melakukan hal yang sama.
 
 116
-00:08:32,070 --> 00:08:36,845
-Salah, seharusnya kamu yang selalu melindungiku
+00:07:41,070 --> 00:07:43,500
+Kita akan terlambat ke sekolah sekarang.
 
 117
-00:08:37,680 --> 00:08:41,668
-Karena ada kamu
-aku baru dapat terus bertahan hidup
+00:07:43,970 --> 00:07:45,630
+Ya kamu benar!
 
 118
-00:08:42,110 --> 00:08:45,643
-melewati ratusan sampai ribuan tahun
+00:07:53,150 --> 00:07:55,180
+Yuzuriha.
 
 119
-00:08:45,644 --> 00:08:49,376
-di tengah kegelapan dan keputusasaan
+00:08:00,460 --> 00:08:02,580
+Saya tidak akan pernah salah mengira Anda.
 
 120
-00:08:50,470 --> 00:08:52,990
-Baiklah! Akhirnya aku dapat mengungkapkan ini
+00:08:02,580 --> 00:08:04,270
+Bahkan setelah ribuan tahun.
 
 121
-00:08:52,990 --> 00:08:54,810
-Dengarkan aku, Yuzu
+00:08:05,870 --> 00:08:11,070
+Anda telah hidup selama ini.
 
 122
-00:08:54,810 --> 00:08:56,985
-Aku ingin menyelesaikan kata
-yang ingin aku ungkapkan pada hari itu
+00:08:24,390 --> 00:08:26,190
+Kerja bagus untuk tetap hidup!
 
 123
-00:08:57,470 --> 00:09:00,123
-Aku ingin melanjutkan kata-kata
+00:08:26,190 --> 00:08:27,520
+Bagus sekali, pohon kamper!
 
 124
-00:09:01,291 --> 00:09:03,523
-yang sudah lama sekali sejak hari itu
+00:08:28,060 --> 00:08:30,070
+Selama ini, kamu menahan Yuzuriha
 
 125
-00:09:17,880 --> 00:09:19,458
-Aku mencintai kamu
+00:08:30,070 --> 00:08:32,320
+dari mencuci dan pecah!
 
 126
-00:09:20,230 --> 00:09:24,132
-Selama ratusan tahun, ribuan tahun
-aku selalu mencintaimu
+00:08:34,700 --> 00:08:38,170
+Maaf aku tidak bisa melindungimu.
 
 127
-00:09:46,380 --> 00:09:48,256
-Aku akan menyelamatkanmu, Yuzu
+00:08:38,170 --> 00:08:42,730
+Sebenarnya, kaulah yang melindungiku, Yuzuriha.
 
 128
-00:09:48,640 --> 00:09:50,858
-Walaupun saat ini aku tidak tahu caranya
+00:08:43,670 --> 00:08:47,940
+Karenamu aku bisa tetap hidup selama ini,
 
 129
-00:09:51,240 --> 00:09:53,220
-Namun, aku pasti
+00:08:48,420 --> 00:08:50,890
+sendirian dalam kegelapan tanpa harapan itu,
 
 130
-00:09:55,730 --> 00:09:57,157
-= Pergi ke arah sungai, anak bodoh =
+00:08:51,510 --> 00:08:55,150
+selama ratusan tahun... ribuan tahun...
 
 131
-00:09:57,157 --> 00:10:01,430
-Pergi ke arah sungai, anak bodoh
+00:08:56,300 --> 00:08:58,780
+Baiklah, akhirnya aku bisa mengatakannya.
 
 132
-00:10:10,560 --> 00:10:14,750
-Akhirnya kamu sudah bangun ya, anak bodoh
+00:08:59,210 --> 00:09:02,470
+Biarkan saya selesai mengatakan apa yang akan saya katakan hari itu.
 
 133
-00:10:17,370 --> 00:10:19,880
-Ternyata kamu masih hidup, Senku!
+00:09:03,490 --> 00:09:09,300
+Sisa dari apa yang saya katakan pada hari itu dulu sekali...
 
 134
-00:10:19,880 --> 00:10:22,760
-Jangan datang memelukku dengan kondisi
-hampir telanjang seperti ini!
+00:09:23,990 --> 00:09:25,330
+aku telah mencintaimu...
 
 135
-00:10:22,760 --> 00:10:24,122
-Awas aku bunuh kamu!
+00:09:26,250 --> 00:09:27,470
+selama ratusan tahun...
 
 136
-00:10:26,250 --> 00:10:30,412
-Hari ini adalah 5 Oktober, Tahun 5738 Masehi
+00:09:28,780 --> 00:09:30,170
+ribuan tahun...
 
 137
-00:10:30,690 --> 00:10:33,270
-Kamu telah tertidur berapa lama sebenarnya?
+00:09:52,430 --> 00:09:54,730
+Aku akan menyelamatkanmu, Yuzuriha.
 
 138
-00:10:33,270 --> 00:10:37,349
-Aku sudah bangun dan mulai bekerja
-sejak setengah tahun yang lalu
+00:09:54,730 --> 00:09:56,840
+Saya belum tahu caranya,
 
 139
-00:10:37,610 --> 00:10:39,930
-Yang berarti, dimulai sejak saat itu...
+00:09:57,170 --> 00:09:59,130
+tapi aku akanâ€”
 
 140
-00:10:39,930 --> 00:10:42,918
-kira-kira telah berlalu 3700 tahun
+00:10:01,850 --> 00:10:08,170
+Ikuti sungai ke hilir, oaf besar
 
 141
-00:10:43,560 --> 00:10:47,318
-Dari mana kamu mengetahui tanggal setepat ini?
+00:10:03,290 --> 00:10:06,710
+"Ikuti sungai ke hilir, oaf besar."
 
 142
-00:10:48,190 --> 00:10:49,890
-Tentu saja dengan menghitung
+00:10:16,570 --> 00:10:20,740
+Jadi kamu akhirnya bangun, kamu bodoh.
 
 143
-00:10:49,890 --> 00:10:51,868
-Memangnya ada cara lain?
+00:10:23,370 --> 00:10:26,100
+Kamu masih hidup, Senku?!
 
 144
-00:10:54,320 --> 00:10:59,680
-Empat, lima, enam, tujuh, delapan
+00:10:26,100 --> 00:10:28,950
+Jangan memelukku saat kau telanjang!
 
 145
-00:11:01,460 --> 00:11:02,600
-Sialan
+00:10:28,950 --> 00:10:29,990
+Aku akan membunuhmu!
 
 146
-00:11:02,600 --> 00:11:05,050
-Hampir saja kehilangan kesadaran lagi
+00:10:32,230 --> 00:10:36,680
+Hari ini tanggal 5 Oktober 5738.
 
 147
-00:11:05,050 --> 00:11:08,475
-Kira-kira setiap 800 ribu detik akan datang sekali
+00:10:36,680 --> 00:10:39,300
+Anda tidur di neraka untuk waktu yang lama.
 
 148
-00:11:09,460 --> 00:11:12,627
-Sama seperti sedang diare
+00:10:39,300 --> 00:10:43,580
+Saya sudah bangun dan bekerja selama lebih dari enam bulan.
 
 149
-00:11:13,790 --> 00:11:16,190
-Sambil dipikirkan dan dihitung deh
+00:10:43,580 --> 00:10:46,130
+Jadi sudah...
 
 150
-00:11:16,190 --> 00:11:18,171
-biar otak kiri dan kanan sama-sama bekerja
+00:10:46,130 --> 00:10:49,620
+3.700 tahun yang baik.
 
 151
-00:11:18,830 --> 00:11:23,541
-1164 Milyar 2706 Juta 5530 Detik
+00:10:49,620 --> 00:10:53,190
+Bagaimana Anda bisa tahu persis hari apa itu?
 
 152
-00:11:24,110 --> 00:11:31,760
-Satu, dua, tiga, empat, lima, enam, tujuh
+00:10:54,260 --> 00:10:56,050
+Saya hanya menghitung.
 
 153
-00:11:31,760 --> 00:11:36,640
-Kamu terus menghitung di dalam kegelapan itu?
+00:10:56,050 --> 00:10:57,820
+Bagaimana lagi saya tahu?
 
 154
-00:11:36,640 --> 00:11:39,440
-Walaupun dapat sadar dengan mengandalkan tekad
+00:11:00,250 --> 00:11:06,050
+Empat, lima, enam, tujuh, delapan ...
 
 155
-00:11:39,440 --> 00:11:41,860
-namun jika terbangun tanpa persiapan
-di tengah musim dingin
+00:11:07,470 --> 00:11:10,980
+Sial, aku hampir kehilangan kesadaran lagi.
 
 156
-00:11:41,860 --> 00:11:44,750
-tetap akan mati sia-sia karena tidak ada makanan
+00:11:10,980 --> 00:11:14,380
+Saya memuncak setiap 800.000 detik atau lebih.
 
 157
-00:11:44,750 --> 00:11:47,590
-Jika ingin bangun dan hidup pada musim semi
+00:11:15,670 --> 00:11:18,650
+Saya kira itu seperti ketika Anda mengalami diare.
 
 158
-00:11:48,180 --> 00:11:51,983
-maka harus mengetahui hari dengan tepat
+00:11:19,780 --> 00:11:22,170
+Pikirkan dan hitung pada saat bersamaan.
 
 159
-00:11:54,060 --> 00:11:55,987
-Baiklah, kita sudah sampai
+00:11:22,170 --> 00:11:24,210
+Gunakan otak Anda secara paralel.
 
 160
-00:11:56,209 --> 00:11:59,069
-Jangan ngomong saja, kamu juga bantu kerja
+00:11:24,850 --> 00:11:29,870
+116.427.065.530 detik.
 
 161
-00:11:59,320 --> 00:12:02,128
-Senku, kamu…
+00:11:29,870 --> 00:11:37,610
+Satu dua tiga empat lima enam tujuh...
 
 162
-00:12:02,730 --> 00:12:05,557
-Kamu membuat semua ini dari nol?
+00:11:37,610 --> 00:11:39,950
+Dalam kegelapan itu?
 
 163
-00:12:09,920 --> 00:12:12,030
-Tenaga kerja tidak cukup
+00:11:40,500 --> 00:11:42,720
+Selama ini?
 
 164
-00:12:12,030 --> 00:12:14,340
-Aku sendiri untuk menyiapkan semua
-perlengkapan hidup saja
+00:11:42,720 --> 00:11:45,450
+Bahkan jika saya bisa terbangun oleh kemauan semata,
 
 165
-00:12:14,400 --> 00:12:16,060
-perlu menghabiskan waktu seharian
+00:11:45,450 --> 00:11:47,820
+jika saya terbangun telanjang di musim dingin,
 
 166
-00:12:16,060 --> 00:12:17,880
-Untuk mencapai tahap peradaban selanjutnya
+00:11:47,820 --> 00:11:50,810
+mencoba mencari makanan akan menjadi permainan instan.
 
 167
-00:12:17,950 --> 00:12:20,799
-diperlukan seseorang
-yang memiliki dengan banyak stamina
+00:11:50,810 --> 00:11:53,750
+Mulai di musim semi adalah suatu keharusan untuk bertahan hidup.
 
 168
-00:12:21,420 --> 00:12:24,840
-Aku selalu menunggumu, Taiju
+00:11:54,250 --> 00:11:58,170
+Laporan yang akurat tentang waktu adalah informasi yang benar-benar saya butuhkan.
 
 169
-00:12:24,840 --> 00:12:28,060
-Karena aku yakin
-kamu 10 milyar persen dapat bertahan hidup
+00:12:00,250 --> 00:12:02,050
+Baiklah, kami di sini.
 
 170
-00:12:28,060 --> 00:12:30,600
-Lelaki yang telah memutuskan
-untuk mengungkapkan perasaan pada Yuzu
+00:12:02,050 --> 00:12:04,820
+Saatnya berhenti mengoceh dan mulai bekerja.
 
 171
-00:12:30,600 --> 00:12:32,752
-sebelum ini terwujud
+00:12:05,330 --> 00:12:07,630
+Senku, apakah kamu ...
 
 172
-00:12:32,752 --> 00:12:36,230
-beberapa ribu tahun
-tidak akan cukup untuk membuatmu menyerah
+00:12:08,660 --> 00:12:11,870
+Apakah Anda membangun ini dari awal?
 
 173
-00:12:36,230 --> 00:12:39,010
-Aku yakin kamu bukanlah orang yang mudah menyerah
+00:12:16,110 --> 00:12:18,260
+Saya tidak memiliki cukup tenaga kerja.
 
 174
-00:12:39,010 --> 00:12:39,946
-Iya
+00:12:18,260 --> 00:12:21,800
+Hanya memproduksi seminimal mungkin untuk menjaga diri saya tetap hidup membutuhkan waktu seharian.
 
 175
-00:12:40,560 --> 00:12:42,003
-tentu saja!
+00:12:22,180 --> 00:12:26,990
+Untuk membangun kembali peradaban, saya membutuhkan kepala daging yang besar dan berotot.
 
 176
-00:12:46,440 --> 00:12:50,149
-Masalah yang perlu menggunakan otak
-semuanya kamu yang atur, Senku
+00:12:27,470 --> 00:12:30,770
+Aku sudah menunggumu selama ini, Taiju.
 
 177
-00:12:51,280 --> 00:12:54,516
-Kerjaan yang memerlukan tenaga
-serahkan semuanya padaku
+00:12:30,770 --> 00:12:33,960
+Saya sepuluh miliar persen yakin bahwa Anda masih hidup.
 
 178
-00:12:56,080 --> 00:12:59,738
-Peradaban manusia berkembanga
+00:12:33,960 --> 00:12:38,640
+Tidak mungkin seorang pria yang begitu ingin mengaku pada Yuzuriha
 
 179
-00:12:59,738 --> 00:13:01,540
-dari jaman batu sampai
-jaman modern perlu 2 juta tahun
+00:12:38,640 --> 00:12:41,840
+akan menyerah setelah hanya beberapa ribu tahun.
 
 180
-00:13:01,540 --> 00:13:04,089
-2 juta tahun ini
-akan kuraih kembali secepat mungkin
+00:12:42,250 --> 00:12:44,960
+Anda tidak begitu lemah.
 
 181
-00:13:04,940 --> 00:13:07,500
-Aku ingin merebut kembali dunia ini
+00:12:44,960 --> 00:12:45,930
+Ya.
 
 182
-00:13:07,500 --> 00:13:11,630
-Menggunakan ilmu pengetahuan untuk
-menyembuhkan dan menghidupkan semua orang
+00:12:46,700 --> 00:12:47,890
+Tentu saja tidak.
 
 183
-00:13:11,630 --> 00:13:14,376
-Dan kemudian, menyelamatkan Yuzu!
+00:12:52,140 --> 00:12:56,100
+Aku mengandalkanmu untuk melakukan semua hal cerdas, Senku.
 
 184
-00:13:15,150 --> 00:13:17,797
-Kita berdua anak SMA
+00:12:57,540 --> 00:13:00,440
+Anda dapat mengandalkan saya untuk melakukan angkat berat!
 
 185
-00:13:17,797 --> 00:13:20,507
-akan membangun kembali peradaban mulai dari nol
+00:13:02,260 --> 00:13:07,420
+Umat ​​manusia menghabiskan dua juta tahun dari zaman batu ke zaman modern.
 
 186
-00:13:20,960 --> 00:13:25,503
-Kita akan menjadi Adam dan Hawa di dunia batu ini
+00:13:07,420 --> 00:13:09,870
+Kita akan berlari sepanjang perjalanan kembali ke atas.
 
 187
-00:13:26,090 --> 00:13:28,778
-Ini membuatku bersemangat!
+00:13:10,700 --> 00:13:13,030
+Aku akan mengambil dunia kembali.
 
 188
-00:13:37,720 --> 00:13:40,000
-Banyak sekali yang kamu kumpulkan
+00:13:13,500 --> 00:13:17,350
+Dan saya akan mencari tahu ilmu di balik membatu dan kebangkitan kita.
 
 189
-00:13:40,000 --> 00:13:43,726
-Tenaga kamu ini pakai cheat ya, Taiju?
+00:13:17,760 --> 00:13:20,340
+Aku akan menyelamatkan Yuzuriha.
 
 190
-00:13:45,980 --> 00:13:47,370
-Amanita Virosa, beracun
+00:13:21,130 --> 00:13:23,570
+Kami berdua anak SMA
 
 191
-00:13:47,430 --> 00:13:48,710
-Jamur rasa kepiting, bisa dimakan
+00:13:23,570 --> 00:13:26,430
+akan membangun peradaban dari ketiadaan.
 
 192
-00:13:48,770 --> 00:13:50,940
-Jamur payung ngengat, beracun
+00:13:26,870 --> 00:13:31,340
+Kita akan menjadi Adam dan Hawa dari dunia batu ini.
 
 193
-00:13:50,940 --> 00:13:53,830
-Jamur seperti di game Super Mario Bros
-sekali lihat juga tahu ini beracun
+00:13:31,970 --> 00:13:34,430
+Ini menggembirakan.
 
 194
-00:13:53,830 --> 00:13:54,840
-Selanjutnya
+00:13:43,380 --> 00:13:45,630
+Setidaknya itu hasil tangkapan yang besar, kurasa.
 
 195
-00:13:54,840 --> 00:13:56,080
-Artemisia, dapat dimakan
+00:13:46,100 --> 00:13:49,350
+Cheat macam apa yang memberimu stamina itu?
 
 196
-00:13:56,080 --> 00:13:59,220
-Aconitum, kamu mau bunuh orang ya? Anak bodoh!
+00:13:52,020 --> 00:13:53,580
+Amanita virosa: beracun.
 
 197
-00:14:02,230 --> 00:14:03,220
-Enak sekali!
+00:13:53,580 --> 00:13:55,090
+Buna shimeji: bisa dimakan.
 
 198
-00:14:03,220 --> 00:14:05,120
-Kamu pakai bumbu apa ini?!
+00:13:55,090 --> 00:13:56,950
+Amanita muscaria: beracun.
 
 199
-00:14:05,120 --> 00:14:07,650
-Hanya makai garam yang disuling dari air laut
+00:13:56,950 --> 00:13:59,940
+Anda tidak bisa mengatakan yang satu ini buruk? Sepertinya itu langsung dari Mario.
 
 200
-00:14:07,650 --> 00:14:10,670
-Bagi manusia, makanan apa saja
-dapat dimakan asal ditaburkan garam
+00:13:59,940 --> 00:14:00,900
+Lanjut.
 
 201
-00:14:10,670 --> 00:14:13,100
-Untuk membuat produk asinan
-juga sangat memerlukan garam
+00:14:00,900 --> 00:14:02,420
+Mugwort: dapat dimakan.
 
 202
-00:14:13,100 --> 00:14:16,260
-Ini merupakan penemuan terbaik
-dari manusia primitif
+00:14:02,420 --> 00:14:03,740
+kebhikkhuan.
 
 203
-00:14:16,260 --> 00:14:19,000
-Terima kasih, Senku! Untuk semua ini!
+00:14:03,740 --> 00:14:05,150
+Siapa yang akan dibunuh, tolol?
 
 204
-00:14:19,000 --> 00:14:21,070
-Banyak sekali hal yang tidak aku ketahui
+00:14:08,110 --> 00:14:09,290
+Nyam!
 
 205
-00:14:21,070 --> 00:14:23,741
-Aku akan menggunakan tenaga dan
-hasil pengumpulan sebagai gantinya
+00:14:09,290 --> 00:14:11,070
+Bagaimana Anda membumbui ini?
 
 206
-00:14:26,550 --> 00:14:29,661
-Aku cari lagi di tempat lain
+00:14:11,070 --> 00:14:13,710
+Hanya garam yang saya ambil dari air laut.
 
 207
-00:14:30,440 --> 00:14:31,761
-Anggur liar ya?
+00:14:13,710 --> 00:14:16,700
+Manusia dapat menikmati apa saja dengan sejumput garam.
 
 208
-00:14:32,190 --> 00:14:34,120
-Bisa dimakan gak ya?
+00:14:16,700 --> 00:14:19,420
+Penting juga untuk pengawetan.
 
 209
-00:14:34,120 --> 00:14:37,513
-Kalau dipikir saja gak akan tahu
-lebih baik dicoba saja
+00:14:19,420 --> 00:14:22,000
+Bisa dibilang itu penemuan terbesar manusia primitif.
 
 210
-00:14:44,460 --> 00:14:46,730
-Aku pernah lihat orang ini di TV
+00:14:22,420 --> 00:14:25,180
+Terima kasih, Senku, untuk semuanya!
 
 211
-00:14:46,730 --> 00:14:49,880
-Primata SMA terkuat di kelas primata
+00:14:25,180 --> 00:14:27,290
+Saya akan menebus pemikiran yang tidak bisa saya lakukan
 
 212
-00:14:49,880 --> 00:14:51,579
-Shishio Tsukasa
+00:14:27,290 --> 00:14:29,530
+dengan kekerasan dan ketekunan!
 
 213
-00:14:52,450 --> 00:14:54,770
-Bahkan pria ini telah…
+00:14:32,590 --> 00:14:35,180
+Saatnya mengais sisi lain!
 
 214
-00:15:02,140 --> 00:15:03,630
-Ini…
+00:14:35,910 --> 00:14:37,980
+Hei, mereka liar.
 
 215
-00:15:05,280 --> 00:15:09,150
-Apakah ada orang lain
-selain aku dan Senku?
+00:14:37,980 --> 00:14:39,750
+Apakah ini bisa dimakan?
 
 216
-00:15:09,150 --> 00:15:10,290
-Siapa yang menaruh ini di sini?
+00:14:40,250 --> 00:14:41,690
+Berpikir tidak akan membantu.
 
 217
-00:15:10,290 --> 00:15:11,930
-Aku yang taruh, bodoh
+00:14:41,690 --> 00:14:43,350
+Makan beberapa akan!
 
 218
-00:15:11,930 --> 00:15:13,497
-Ternyata kamu!
+00:14:50,410 --> 00:14:52,670
+Aku pernah melihatnya di TV sebelumnya.
 
 219
-00:15:15,300 --> 00:15:19,380
-Apa di dunia ini sudah tidak ada lagi
-manusia lainnya?
+00:14:52,670 --> 00:14:55,870
+Dia adalah "anak sekolah menengah primata terkuat,"
 
 220
-00:15:19,380 --> 00:15:22,820
-Menambah jumlah manusia, adalah tugas pertama kita
+00:14:55,870 --> 00:14:57,620
+Shishio Tsukasa.
 
 221
-00:15:22,820 --> 00:15:25,320
-Modal kita berdua anak cowok
-hanya akan nunggu mati
+00:14:58,700 --> 00:15:00,510
+Itu terjadi padanya juga?
 
 222
-00:15:25,380 --> 00:15:28,110
-mana mungkin ada masa depan bagi umat manusia?
+00:15:08,460 --> 00:15:09,720
+Lihat!
 
 223
-00:15:28,110 --> 00:15:29,420
-Benar juga
+00:15:11,380 --> 00:15:14,600
+Seseorang selain aku dan Senku telah selamat!
 
 224
-00:15:29,420 --> 00:15:30,640
-Lagipula
+00:15:15,210 --> 00:15:16,470
+Siapa yang meninggalkan ini di sini?!
 
 225
-00:15:30,640 --> 00:15:35,720
-setelah 3700 tahun, apa alasan kita
-dapat terbebas dari keadaan membatu ini?
+00:15:16,470 --> 00:15:17,620
+Aku melakukannya, bodoh.
 
 226
-00:15:35,720 --> 00:15:37,724
-Mungkin batunya terkikis?
+00:15:18,030 --> 00:15:19,480
+Itu kamu?!
 
 227
-00:15:38,330 --> 00:15:41,377
-Jika batu misterius ini
-memang betul karena terkikis
+00:15:21,270 --> 00:15:25,360
+Apakah kita satu-satunya manusia yang tersisa di dunia?
 
 228
-00:15:42,430 --> 00:15:45,550
-kita berdua terbangun secara bersamaan
-ini aneh sekali
+00:15:25,360 --> 00:15:27,130
+Kita akan mendapatkan lebih banyak manusia.
 
 229
-00:15:45,550 --> 00:15:48,630
-Hanya berbeda setengah tahun dari 3700 tahun
+00:15:27,130 --> 00:15:29,160
+Itu prioritas utama.
 
 230
-00:15:48,630 --> 00:15:52,340
-Pasti ada alasan yang logis di balik semua ini
+00:15:29,160 --> 00:15:34,100
+Masa depan apa yang dimiliki umat manusia dengan hanya kita berdua yang berjalan dengan susah payah?
 
 231
-00:15:52,340 --> 00:15:57,130
-Kita berdua telah terhanyut sampai di gua ini
+00:15:34,100 --> 00:15:35,460
+Itu benar.
 
 232
-00:15:57,130 --> 00:16:00,146
-Lihat, tetesan air itu
+00:15:35,460 --> 00:15:41,710
+Selain itu, mengapa tepatnya kita dibebaskan dari kekejaman kita setelah 3.700 tahun?
 
 233
-00:16:01,110 --> 00:16:04,810
-Itu adalah air ajaib yang berasal
-dari kotoran kelelawar
+00:15:41,710 --> 00:15:43,430
+Batu itu membusuk?
 
 234
-00:16:04,810 --> 00:16:06,260
-Asam Nitrat
+00:15:43,430 --> 00:15:44,310
+Ya.
 
 235
-00:16:06,260 --> 00:16:08,400
-Apa?! Asam Nitrat?
+00:15:44,310 --> 00:15:47,130
+Seandainya mineral aneh ini terkorosi,
 
 236
-00:16:08,460 --> 00:16:10,600
-Apa itu Asam Nitrat?
+00:15:48,490 --> 00:15:51,850
+bukankah mencurigakan bahwa kita berdua keluar pada waktu yang hampir bersamaan?
 
 237
-00:16:10,600 --> 00:16:12,470
-Aku tahu kamu pasti akan tanya, anak bodoh
+00:15:51,850 --> 00:15:54,840
+Hanya berselang enam bulan setelah 3.700 tahun.
 
 238
-00:16:12,470 --> 00:16:15,304
-Merepotkan sekali! Sulit sekali untuk dijelaskan
+00:15:54,840 --> 00:15:58,070
+Ada penjelasan logis di balik setiap kebetulan.
 
 239
-00:16:17,010 --> 00:16:19,800
-Jadi maksudnya, cukup ditetesi Asam Nitrat ini
+00:15:58,620 --> 00:16:02,730
+Anda dan saya sama-sama terdampar di dekat gua ini.
 
 240
-00:16:19,850 --> 00:16:21,900
-batu akan terkikis, dan dapat hidup kembali?
+00:16:03,120 --> 00:16:05,950
+Lihatlah barang-barang yang menetes dari atas sana.
 
 241
-00:16:21,900 --> 00:16:25,045
-Jika memang semudah itu
-aku tidak akan sepusing ini
+00:16:07,110 --> 00:16:10,570
+Ini adalah cairan ajaib yang terbuat dari guano kelelawar...
 
 242
-00:16:32,440 --> 00:16:35,180
-Aku sudah mencoba berkali-kali
+00:16:11,010 --> 00:16:12,320
+Asam sendawa.
 
 243
-00:16:35,180 --> 00:16:37,800
-menggunakan segala cara yang aku ketahui
+00:16:12,320 --> 00:16:14,530
+Apa?! Asam sendawa?!
 
 244
-00:16:39,770 --> 00:16:42,580
-Aku telah mencoba berkali-kali dan terus mencoba
+00:16:14,530 --> 00:16:16,710
+Apa itu?!
 
 245
-00:16:42,580 --> 00:16:45,310
-Intinya, ini seperti material dari dunia fantasi
+00:16:16,710 --> 00:16:18,600
+Aku tahu kau akan mengatakan itu, bodoh.
 
 246
-00:16:45,310 --> 00:16:48,250
-Apakah ini sebuah mineral, atau sebuah sel?
+00:16:18,600 --> 00:16:21,070
+Saya tidak akan membuang waktu bahkan untuk menjelaskan intinya.
 
 247
-00:16:48,250 --> 00:16:50,742
-Saat ini, aku bahkan tidak memiliki alat
-untuk meneliti hal ini
+00:16:22,830 --> 00:16:27,860
+Jadi Anda mengatakan ini sesuatu-atau-asam lain merusak batu dan menghidupkannya kembali?
 
 248
-00:16:51,340 --> 00:16:56,116
-Ternyata di dunia ini juga ada masalah
-yang tak dapat dijelaskan oleh sains
+00:16:27,860 --> 00:16:31,090
+Andai saja sesederhana itu.
 
 249
-00:16:57,620 --> 00:17:00,260
-Ini dia, kata-kata klise yang sering diucapkan
+00:16:38,390 --> 00:16:40,890
+Saya sudah mencoba seperti orang gila,
 
 250
-00:17:00,260 --> 00:17:03,880
-Makanya aku tidak pernah berhenti
-membuat hipotesis dan mencoba
+00:16:40,890 --> 00:16:43,510
+menggunakan setiap metode yang tersedia bagi saya.
 
 251
-00:17:03,880 --> 00:17:06,320
-Sains memang seperti ini
+00:16:45,520 --> 00:16:48,360
+Berkali-kali... Berpuluh-puluh kali...
 
 252
-00:17:06,860 --> 00:17:09,091
-Andai saja kita punya sake
+00:16:48,360 --> 00:16:51,320
+Ini semua di alam fantasi.
 
 253
-00:17:10,150 --> 00:17:10,739
-= Etanol C2H5OH =
-= Asam Nitrat HN03 =
+00:16:51,320 --> 00:16:54,260
+Apakah itu mineral? Apakah itu seluler?
 
 254
-00:17:10,739 --> 00:17:12,200
-Jika kita punya alkohol dari sake
+00:16:54,260 --> 00:16:57,070
+Aku bahkan tidak punya peralatan untuk mencari tahu lagi.
 
 255
-00:17:12,250 --> 00:17:15,549
-Asam Nitrat digabungkan dengan Etanol
-akan menjadi Asam Nitrat Alkohol
+00:16:57,070 --> 00:17:02,050
+Jadi ada hal-hal di dunia ini yang bahkan sains tidak bisa jelaskan?
 
 256
-00:17:15,549 --> 00:17:16,661
-= Larutan Korosif =
-= Asam Nitrat Alkohol =
+00:17:03,780 --> 00:17:06,290
+Di sini kita pergi lagi dengan klise yang lelah itu.
 
 257
-00:17:16,661 --> 00:17:16,748
-Sebuah larutan korosif
-Asam Nitrat Alkohol
+00:17:06,290 --> 00:17:09,630
+Itu sebabnya Anda berhipotesis dan bereksperimen berulang-ulang.
 
 258
-00:17:16,748 --> 00:17:19,180
-adalah larutan korosif
-yang sering digunakan di pabrik-pabrik
+00:17:10,010 --> 00:17:12,410
+Sains adalah proses yang lambat.
 
 259
-00:17:19,180 --> 00:17:21,645
-Kamu bilang apa tadi, Senku?
+00:17:12,890 --> 00:17:14,950
+Kalau saja aku punya minuman keras, meskipun...
 
 260
-00:17:21,645 --> 00:17:23,780
-Aku bilang, Asam Nitrat Alkohol
+00:17:16,180 --> 00:17:21,740
+Asam sendawa
 
 261
-00:17:23,780 --> 00:17:25,300
-dapat menghancurkan butiran besi dari mineral
+00:17:16,180 --> 00:17:21,740
+etanol
 
 262
-00:17:25,380 --> 00:17:28,730
-Bukan ini
-Kata-kata sulit ini aku juga gak mengerti
+00:17:16,180 --> 00:17:18,380
+Dengan alkohol dalam minuman keras,
 
 263
-00:17:28,730 --> 00:17:31,650
-Kamu bilang "andai ada sake" kan?
+00:17:18,380 --> 00:17:22,350
+Saya bisa menggabungkan asam nitrat dan etanol untuk membuat nital.
 
 264
-00:17:31,650 --> 00:17:36,635
-Dengan anggur, bukankah kita dapat membuat wine?
+00:17:22,350 --> 00:17:24,850
+Ini benar-benar agen etsa kekuatan industri.
 
 265
-00:17:37,570 --> 00:17:40,456
-Bagus sekali, anak bodoh!
+00:17:25,330 --> 00:17:27,630
+Apa yang baru saja kamu katakan, Senku?
 
 266
-00:17:49,890 --> 00:17:54,942
-Ya, kerjaan kuli diserahkan padamu
-ini memang keputusan yang paling logis
+00:17:27,630 --> 00:17:29,920
+Hah? kataku nital.
 
 267
-00:17:57,130 --> 00:17:59,850
-Untuk membuat wine sangat mudah
+00:17:29,920 --> 00:17:31,520
+Itu masuk ke batas butir ferit danâ€”
 
 268
-00:17:59,850 --> 00:18:02,950
-Cukup hancurkan anggur atau kismis
-dan masukkan ke dalam botol
+00:17:31,520 --> 00:17:34,650
+Tidak! Saya tidak mengerti hal-hal yang cerdas.
 
 269
-00:18:02,950 --> 00:18:06,345
-selanjutnya cukup diaduk setiap hari
+00:17:34,650 --> 00:17:37,160
+Tapi "Kalau saja aku minum minuman keras"?
 
 270
-00:18:07,390 --> 00:18:11,845
-Namun membuat wine secara pribadi
-itu melanggar hukum loh kalau di zaman asli kita
+00:17:37,850 --> 00:17:41,900
+Tidak bisakah kita membuat anggur dari buah anggur?
 
 271
-00:18:14,090 --> 00:18:15,650
-Sudah 3 minggu
+00:17:43,290 --> 00:17:46,090
+Tidak buruk, kamu bodoh!
 
 272
-00:18:15,650 --> 00:18:17,420
-seharusnya sudah cukup
+00:17:46,810 --> 00:17:48,170
+Laboratorium
 
 273
-00:18:17,420 --> 00:18:21,101
-Tapi Senku
-kita masih belum dewasa, gak boleh minum wine kan?
+00:17:55,890 --> 00:17:58,950
+Oke, Anda bisa melakukan semua pekerjaan kasar mulai sekarang.
 
 274
-00:18:22,110 --> 00:18:23,290
-Gak masalah
+00:17:58,950 --> 00:18:00,460
+Itu lebih masuk akal.
 
 275
-00:18:23,290 --> 00:18:26,230
-kita telah 3700 lebih tahun
+00:18:03,010 --> 00:18:08,690
+Laboratorium
 
 276
-00:18:26,230 --> 00:18:28,323
-Betul juga
+00:18:03,390 --> 00:18:05,980
+Membuat anggur tidak bisa lebih mudah.
 
 277
-00:18:35,030 --> 00:18:37,320
-Ini jauh lebih baik
-dari yang dibayangkan
+00:18:05,980 --> 00:18:08,690
+Hancurkan anggur dan kismis dan sebagainya, masukkan ke dalam wadah,
 
 278
-00:18:37,320 --> 00:18:40,420
-Namun kalah 10 milyar lipat
-dari yang dijual di pasaran
+00:18:09,060 --> 00:18:12,030
+dan hanya mencampurnya setiap hari sampai selesai.
 
 279
-00:18:40,420 --> 00:18:43,980
-Asal ada anggur
-maka wine dapat dibuat dengan mudah
+00:18:13,750 --> 00:18:15,440
+Meskipun itu akan menjadi kejahatan
 
 280
-00:18:43,980 --> 00:18:46,490
-Harus melangkah dengan pasti
+00:18:15,440 --> 00:18:17,620
+untuk membuat minuman keras tanpa lisensi di zaman kita.
 
 281
-00:18:46,490 --> 00:18:50,370
-Selanjutnya, kita harus mengeluarkan
-lebih banyak tenaga
+00:18:20,140 --> 00:18:21,410
+Tiga minggu...
 
 282
-00:18:50,370 --> 00:18:54,960
-Ayo mulai, penyulingan anggur!
-Membuat Brendi
+00:18:21,410 --> 00:18:22,950
+Itu harus melakukannya.
 
 283
-00:18:54,960 --> 00:18:56,260
-Penyulingan?!
+00:18:23,410 --> 00:18:27,010
+Anda tahu, Senku, ini akan dianggap sebagai minum di bawah umur.
 
 284
-00:18:56,260 --> 00:18:57,660
-Aku sama sekali gak mengerti!
+00:18:28,190 --> 00:18:29,370
+Bukan masalah.
 
 285
-00:18:57,660 --> 00:18:59,690
-Aku tahu kamu pasti akan ngomong begitu
+00:18:29,370 --> 00:18:32,490
+Kami berusia lebih dari 3.700 tahun.
 
 286
-00:18:59,690 --> 00:19:01,720
-Intinya wine dipanaskan
-lalu didinginkan dan diteteskan
+00:18:32,490 --> 00:18:34,050
+Anda benar!
 
 287
-00:19:01,790 --> 00:19:04,380
-untuk meningkatkan kadar alkoholnya
+00:18:41,090 --> 00:18:43,530
+Ini lebih baik daripada yang saya kira.
 
 288
-00:19:04,380 --> 00:19:05,460
-Ini tidak sulit
+00:18:43,530 --> 00:18:46,530
+Meskipun itu sekitar sepuluh miliar kali lebih buruk daripada yang ada di pasaran.
 
 289
-00:19:05,460 --> 00:19:07,390
-3000 tahun sebelum masehi
+00:18:46,530 --> 00:18:49,810
+Saya tidak pernah tahu itu sangat mudah dibuat hanya dengan anggur.
 
 290
-00:19:07,390 --> 00:19:11,050
-orang di peradaban Mesopotamia
-dapat penyuling dengan tembikar
+00:18:49,810 --> 00:18:52,490
+Satu langkah pada satu waktu.
 
 291
-00:19:11,050 --> 00:19:13,320
-Tidak ada yang tidak mungkin
-jika dapat terpikirkan
+00:18:52,490 --> 00:18:56,090
+Namun, hal-hal akan menjadi sedikit lebih membosankan.
 
 292
-00:19:13,320 --> 00:19:15,518
-Ini membuatku bersemangat!
+00:18:56,500 --> 00:18:58,800
+penyulingan Anggur untuk Dummies,
 
 293
-00:21:03,620 --> 00:21:06,580
-Dengarkan baik-baik, Taiju
+00:18:58,800 --> 00:19:00,950
+dimulai dengan brendi.
 
 294
-00:21:06,580 --> 00:21:11,405
-Tidak ada masalah yang tidak dapat
-dijelaskan oleh sains
+00:19:00,950 --> 00:19:02,460
+Penyulingan, ya?
 
 295
-00:21:12,920 --> 00:21:15,856
-Jika tidak dapat dijelaskan
-carilah cara untuk menjelaskannya
+00:19:02,460 --> 00:19:03,790
+Tidak tahu apa artinya!
 
 296
-00:21:16,670 --> 00:21:21,860
-Usaha tanpa henti untuk mencari jawaban
-inilah yang disebut sebagai sains
+00:19:03,790 --> 00:19:05,930
+Aku tahu kau akan mengatakan itu.
 
 297
-00:21:52,850 --> 00:21:58,222
-Sudah setahun sejak eksperimen dimulai
-Tidak disangka secepat ini
+00:19:05,930 --> 00:19:08,200
+Panaskan, dinginkan, teteskan.
 
 298
-00:21:59,960 --> 00:22:01,959
-Dan ternyata cukup simple
+00:19:08,200 --> 00:19:09,910
+Itu mengkonsentrasikan alkohol.
 
 299
-00:22:02,950 --> 00:22:06,788
-Aku akan mengalahkan fantasi dengan sains
+00:19:10,420 --> 00:19:13,350
+Jangan khawatir. Orang-orang di Peradaban Mesopotamia
 
 300
-00:22:09,250 --> 00:22:10,357
-= Ｄr. STONE Jaman Batu Baru =
+00:19:13,350 --> 00:19:17,050
+melakukannya di 3000 SM menggunakan pot tanah liat.
 
 301
-00:22:10,357 --> 00:22:13,464
-Ini membuatku bersemangat!
+00:19:17,050 --> 00:19:19,340
+Tidak ada yang tidak dapat Anda lakukan jika Anda mencoba.
 
 302
-00:22:15,190 --> 00:22:20,270
-♪ Selamat pagi Dunia ♪
+00:19:19,340 --> 00:19:22,340
+Ini menggembirakan.
 
 303
-00:22:26,840 --> 00:22:30,250
-= Ｄr. STONE Jaman Batu Baru =
+00:21:09,410 --> 00:21:12,160
+Biarkan aku mengajarimu, bodoh besar ...
 
 304
-00:22:31,370 --> 00:22:33,820
-♪ Telah berjalan berapa lama ♪
+00:21:12,910 --> 00:21:17,010
+Bukannya ada hal-hal yang tidak bisa dijelaskan oleh sains.
 
 305
-00:22:33,820 --> 00:22:37,250
-♪ Hanya rasa pedih di kedua telapak kaki ♪
+00:21:19,130 --> 00:21:21,910
+Anda mencari aturan di balik hal-hal itu.
 
 306
-00:22:38,030 --> 00:22:41,310
-♪ Menjadi bukti untuk perjalanan ini ♪
+00:21:22,650 --> 00:21:25,420
+Ilmu hanyalah nama untuk yang mantap,
 
 307
-00:22:41,310 --> 00:22:47,940
-♪ Melewati malam yang panjang ♪
-♪ Merindukan pemandangan yang indah ♪
+00:21:25,420 --> 00:21:27,700
+usaha keras yang dilakukan untuk melakukannya.
 
 308
-00:22:48,010 --> 00:22:52,030
-♪ Membuatku bertahan sampai hari ini ♪
+00:21:58,900 --> 00:22:01,610
+Satu tahun sejak saya mulai bereksperimen ...
 
 309
-00:22:52,200 --> 00:22:57,070
-♪ Kuil dewa yang hijau
-di lereng bukit yang luas ♪
+00:22:01,610 --> 00:22:04,130
+Tidak butuh waktu selama yang saya pikirkan.
 
 310
-00:22:57,070 --> 00:23:02,080
-♪ Gua batu yang luas ♪
-♪ Langit tanpa batas ♪
+00:22:06,020 --> 00:22:07,980
+Ini adalah upaya yang lambat tapi pasti.
 
 311
-00:23:02,190 --> 00:23:07,790
-♪ Menghancurkan halangan ♪
-♪ Menembus batas ♪
+00:22:09,060 --> 00:22:12,550
+Saya akan mengalahkan fantasi dengan sains.
 
 312
-00:23:07,990 --> 00:23:11,980
-♪ Menelusuri setiap sudut planet ♪
+00:22:16,340 --> 00:22:19,180
+Ini menggembirakan.
 
 313
-00:23:13,180 --> 00:23:17,830
-♪ Selamat pagi Dunia ♪
+00:22:21,040 --> 00:22:23,170
+Selamat pagi Dunia
 
 314
-00:23:18,160 --> 00:23:22,190
-♪ Menghapus keputusasaan dalam kegelapan ♪
+00:22:23,170 --> 00:22:26,380
+Selamat pagi Dunia!
 
 315
-00:23:22,190 --> 00:23:27,180
-♪ Menjadikan legenda sebagai perjalanan harian ♪
+00:22:24,230 --> 00:22:26,380
+Selamat pagi Dunia!
 
 316
-00:23:28,150 --> 00:23:36,250
-♪ Langkahkan kaki ♪
-♪ Selangkah-demi selangkah ♪
+00:22:37,250 --> 00:22:39,940
+Seberapa jauh aku telah berjalan?
 
 317
-00:23:37,230 --> 00:23:42,437
-♪ Membuka dunia baru ♪
+00:22:39,940 --> 00:22:43,020
+Hanya rasa sakit di kakiku
 
 318
-00:23:43,730 --> 00:23:44,719
-= Dr. STONE Komisaris Produser =
+00:22:43,790 --> 00:22:47,360
+Memberiku rasa jarak
 
 319
-00:23:44,980 --> 00:23:49,637
-= Cerita ini hanya khayalan belaka
-harap jangam ditiru =
+00:22:47,360 --> 00:22:53,980
+Harapan akan pemandangan indah di penghujung malam yang panjang
 
+320
+00:22:53,980 --> 00:22:57,200
+Apa yang membuatku bertahan hari ini
+
+321
+00:22:58,010 --> 00:23:03,070
+Gunung para dewa, istana hijau
+
+322
+00:23:03,070 --> 00:23:08,090
+Kedalaman gua, ujung langit biru yang dalam
+
+323
+00:23:08,090 --> 00:23:13,940
+Saya akan menempuh jarak penuh, tidak ada batasan
+
+324
+00:23:13,940 --> 00:23:17,270
+Ke ujung dunia
+
+325
+00:23:19,060 --> 00:23:20,820
+Selamat pagi Dunia
+
+326
+00:23:20,820 --> 00:23:23,900
+Selamat pagi Dunia!
+
+327
+00:23:22,100 --> 00:23:23,900
+Selamat pagi Dunia!
+
+328
+00:23:23,900 --> 00:23:27,990
+Singkirkan ketidakmungkinan kegelapan
+
+329
+00:23:27,990 --> 00:23:33,340
+Pengembaraan yang mengubah mitologi menjadi kehidupan sehari-hari
+
+330
+00:23:33,980 --> 00:23:42,750
+Dalam perjalanan yang melelahkan ini, membalik setiap batu
+
+331
+00:23:43,230 --> 00:23:47,670
+Kami akan memperluas dunia kami
+
+332
+00:23:58,640 --> 00:24:01,100
+Episode selanjutnya
+
+333
+00:24:01,040 --> 00:24:06,250
+Ini adalah karya fiksi, tetapi tanaman, hewan, dan metode produksi yang dijelaskan didasarkan pada kenyataan. Mencari makan dan membuat sesuatu atas kemauan sendiri sangatlah berbahaya dan, dalam beberapa kasus, ilegal. Tolong jangan meniru tanpa keahlian.
