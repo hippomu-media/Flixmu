@@ -55,6 +55,28 @@ pagination:
 {% endfor %}
 </ul>
 
+  <div class="head-title">
+  <span class="main-title">
+  <span>Comedy</span>
+  </span>
+  <span class="more-link">
+  <span>
+  <a href='/' target="">More</a>
+  </span>
+  </span>
+  </div>
+
+{% assign animecomedytag = site.anime | where: "tag", "Action" %}
+{% assign animecomedy = animecomedytag | sort: 'post_date' | reverse %}
+<ul id="carousel" class="carousel"
+  data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": true, "pageDots": false, "groupCells": true }'>
+{% for post in animecomedy limit:15 %}
+    <li class="carousel-cell">
+      <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
+    </li>
+{% endfor %}
+</ul>
+
 </div>
 </div>
 </div>
