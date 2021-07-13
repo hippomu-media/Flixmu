@@ -11,6 +11,7 @@ pagination:
 <div class='container' style='position:relative;padding:0px;display:block;width:calc(100% - 0px)'>
 <div class='post-menu'>
 <div class='main-container'>
+
   <div class="head-title">
   <span class="main-title">
   <span>Anime</span>
@@ -24,15 +25,25 @@ pagination:
 
 <ul id="carousel" class="carousel"
   data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": true, "pageDots": false, "groupCells": true }'>
-  
 {% assign anime = site.anime | sort: 'post_date' | reverse %}
 {% for post in anime limit:15 %}
     <li class="carousel-cell">
       <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
     </li>
 {% endfor %}
-  
 </ul>
+
+{% assign animeactiontag = site.anime | where: "tag", "Action" %}
+{% assign animeaction = animeactiontag | sort: 'post_date' | reverse %}
+<ul id="carousel" class="carousel"
+  data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": true, "pageDots": false, "groupCells": true }'>
+{% for post in animeaction limit:15 %}
+    <li class="carousel-cell">
+      <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
+    </li>
+{% endfor %}
+</ul>
+
 </div>
 </div>
 </div>
