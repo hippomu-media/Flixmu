@@ -33,6 +33,17 @@ pagination:
 {% endfor %}
 </ul>
 
+  <div class="head-title">
+  <span class="main-title">
+  <span>Action</span>
+  </span>
+  <span class="more-link">
+  <span>
+  <a href='/' target="">More</a>
+  </span>
+  </span>
+  </div>
+
 {% assign animeactiontag = site.anime | where: "tag", "Action" %}
 {% assign animeaction = animeactiontag | sort: 'post_date' | reverse %}
 <ul id="carousel" class="carousel"
