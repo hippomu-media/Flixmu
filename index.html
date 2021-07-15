@@ -28,7 +28,7 @@ pagination:
 {% assign anime = site.anime | sort: 'post_date' | reverse %}
 {% for post in anime limit:15 %}
     <li class="carousel-cell">
-      <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
+      <a href="{{ post.url }}"><img src='{{ site.url }}/media/anime/{{ post.data }}/cover.webp'/></a>
     </li>
 {% endfor %}
 </ul>
@@ -50,7 +50,7 @@ pagination:
   data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": true, "pageDots": false, "groupCells": true }'>
 {% for post in animeaction limit:15 %}
     <li class="carousel-cell">
-      <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
+      <a href="{{ post.url }}"><img src='{{ site.url }}/media/anime/{{ post.data }}/cover.webp'/></a>
     </li>
 {% endfor %}
 </ul>
@@ -72,7 +72,7 @@ pagination:
   data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": true, "pageDots": false, "groupCells": true }'>
 {% for post in animecomedy limit:15 %}
     <li class="carousel-cell">
-      <a href="{{ post.url }}"><img src='https://images.weserv.nl/?url={{ site.url }}/media/anime/{{ post.data }}/cover.webp&w=360&h=510&output=webp&fit=cover'/></a>
+      <a href="{{ post.url }}"><img src='{{ site.url }}/media/anime/{{ post.data }}/cover.webp'/></a>
     </li>
 {% endfor %}
 </ul>
