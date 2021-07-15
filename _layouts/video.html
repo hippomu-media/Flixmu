@@ -62,7 +62,16 @@ flip: true,
 fullscreen: true,
 fullscreenWeb: false,
 whitelist: ['*'],
-subtitle: {url:'{{ page.in }}',},
+subtitle: {
+  url:'{{ page.in }}',
+          style: {
+            color: '#fff',
+            'text-shadow': '.05em .05em 0 rgba(0,0,0,1)',
+            '-webkit-text-stroke': '.03em black',
+            'background-color': 'green',
+            display: 'flex',
+        },
+},
 quality: [
 {% if page.size_g %}
 {name: '144',url: '{{ page.size_g }}',},
