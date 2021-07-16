@@ -1,3 +1,35 @@
 ---
 layout: default
 ---
+<!--[ <body> open ]-->
+<body class='gridLayout onItem onPost' id='mainContent'>
+{% include header.html %}
+<!--[ Blog article ]-->
+<div class='blogContent sectionInner'>
+<!--[ Main content ]-->
+<main class='mainbar'>
+<div class='section' id='main-widget'>
+<div class='widget Blog'>
+<div class='blogPosts'>
+<article class='hentry post'>
+<h1 class='postTitle'>
+<span>
+{{ page.title }}
+</span>
+</h1>
+<div class='postInner'>
+<div class='postEntry'>
+<div class='postBody' id='postBody'>
+{{ content }}
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+
+</div>
+</main>
+<!--[ Sidebar content ]-->
+{% include sidebar.html %}
+</div>
