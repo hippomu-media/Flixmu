@@ -39,7 +39,7 @@ permalink: /anime/list
    <div class='win-head'><a name='#'>#</a></div>
    
 {% assign animea-list = site.anime | where: "tag", "#" %}
-{% assign animealist = animea-list | sort: 'post_date' | reverse %}
+{% assign animealist = animea-list | sort: 'title' | reverse %}
 {% for post in animealist %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -49,7 +49,7 @@ permalink: /anime/list
    <div class='win-head'><a name='A'>A</a></div>
    
 {% assign animealist-a = site.anime | where: "tag", "B" %}
-{% assign animealista = animealist-a | sort: 'post_date' | reverse %}
+{% assign animealista = animealist-a | sort: 'title' | reverse %}
 {% for post in animealista %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -59,7 +59,7 @@ permalink: /anime/list
    <div class='win-head'><a name='B'>B</a></div>
    
 {% assign animealist-b = site.anime | where: "tag", "C" %}
-{% assign animealistb = animealist-b | sort: 'post_date' | reverse %}
+{% assign animealistb = animealist-b | sort: 'title' | reverse %}
 {% for post in animealistb %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -69,7 +69,7 @@ permalink: /anime/list
    <div class='win-head'><a name='C'>C</a></div>
    
 {% assign animealist-c = site.anime | where: "tag", "C" %}
-{% assign animealistc = animealist-c | sort: 'post_date' | reverse %}
+{% assign animealistc = animealist-c | sort: 'title' | reverse %}
 {% for post in animealistc %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -79,7 +79,7 @@ permalink: /anime/list
    <div class='win-head'><a name='D'>D</a></div>
    
 {% assign animealist-d = site.anime | where: "tag", "D" %}
-{% assign animealistd = animealist-d | sort: 'post_date' | reverse %}
+{% assign animealistd = animealist-d | sort: 'title' | reverse %}
 {% for post in animealistd %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -89,7 +89,7 @@ permalink: /anime/list
    <div class='win-head'><a name='E'>E</a></div>
    
 {% assign animealist-e = site.anime | where: "tag", "E" %}
-{% assign animealiste = animealist-e | sort: 'post_date' | reverse %}
+{% assign animealiste = animealist-e | sort: 'title' | reverse %}
 {% for post in animealiste %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -117,7 +117,7 @@ permalink: /anime/list
    <div class='win-head'><a name='I'>I</a></div>
    
 {% assign animealist-i = site.anime | where: "tag", "I" %}
-{% assign animealisti = animealist-i | sort: 'post_date' | reverse %}
+{% assign animealisti = animealist-i | sort: 'title' | reverse %}
 {% for post in animealisti %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -187,7 +187,7 @@ permalink: /anime/list
    <div class='win-head'><a name='T'>T</a></div>
    
 {% assign animealist-t = site.anime | where: "tag", "T" %}
-{% assign animealistt = animealist-t | sort: 'post_date' | reverse %}
+{% assign animealistt = animealist-t | sort: 'title' | reverse %}
 {% for post in animealistt %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
