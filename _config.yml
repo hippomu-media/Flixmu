@@ -41,6 +41,8 @@ compress_html:
   profile: false
   startings: []
 
+popular_posts_count: 5
+
 pagination:
   enabled: true
   per_page: 8
