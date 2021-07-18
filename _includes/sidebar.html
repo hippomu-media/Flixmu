@@ -4,5 +4,17 @@
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v11.0" nonce="SO1a6qSE"></script>
 <iframe src="https://trakteer.id/flixmu/stream/top-supporters?key=trstream-vk9LdAG431lk7x20FuYa&ts_count=10" width="300" height="600" frameborder="0" allowfullscreen=""></iframe>
 <iframe src="https://discord.com/widget?id=865465421490159616&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+<section>
+  <h1>Popular Posts</h1>
+  <ul id="recent_posts">
+    {% for post in site.popular_posts limit: site.popular_posts_count %}
+      <li class="post">
+        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
 </div>
 </aside>
