@@ -28,6 +28,23 @@
 
 {{ content }}
 
+<div>Download Subtitle</div>
+{% if page.en %}
+<a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_en.srt'>English</a>
+{% endif %}
+{% if page.in %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_in.srt'>Indonesia</a>
+{% endif %}
+{% if page.ch %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_ch.srt'>China</a>
+{% endif %}
+{% if page.th %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_th.srt'>Thailand</a>
+{% endif %}
+{% if page.ms %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_ms.srt'>Malaysia</a>
+{% endif %}
+
 <p class='note'>Jika kamu melihat subtitle tidak sesuai, bantu kami memerbaikinya dengan mengikuti tautan Edit Subtitle diatas. (dibutuhkan akun Github)</p>
 </div>
 </div>
