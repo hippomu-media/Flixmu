@@ -39,7 +39,7 @@ permalink: /anime/list
    <div class='win-head'><a name='#'>#</a></div>
    
 {% assign animea-list = site.anime | where: "tag", "#" %}
-{% assign animealist = animea-list | sort: 'title' | reverse %}
+{% assign animealist = animea-list | sort: 'title' %}
 {% for post in animealist %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -49,7 +49,7 @@ permalink: /anime/list
    <div class='win-head'><a name='A'>A</a></div>
    
 {% assign animealist-a = site.anime | where: "tag", "B" %}
-{% assign animealista = animealist-a | sort: 'title' | reverse %}
+{% assign animealista = animealist-a | sort: 'title' %}
 {% for post in animealista %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -59,7 +59,7 @@ permalink: /anime/list
    <div class='win-head'><a name='B'>B</a></div>
    
 {% assign animealist-b = site.anime | where: "tag", "C" %}
-{% assign animealistb = animealist-b | sort: 'title' | reverse %}
+{% assign animealistb = animealist-b | sort: 'title' %}
 {% for post in animealistb %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -69,7 +69,7 @@ permalink: /anime/list
    <div class='win-head'><a name='C'>C</a></div>
    
 {% assign animealist-c = site.anime | where: "tag", "C" %}
-{% assign animealistc = animealist-c | sort: 'title' | reverse %}
+{% assign animealistc = animealist-c | sort: 'title' %}
 {% for post in animealistc %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -79,7 +79,7 @@ permalink: /anime/list
    <div class='win-head'><a name='D'>D</a></div>
    
 {% assign animealist-d = site.anime | where: "tag", "D" %}
-{% assign animealistd = animealist-d | sort: 'title' | reverse %}
+{% assign animealistd = animealist-d | sort: 'title' %}
 {% for post in animealistd %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -89,7 +89,7 @@ permalink: /anime/list
    <div class='win-head'><a name='E'>E</a></div>
    
 {% assign animealist-e = site.anime | where: "tag", "E" %}
-{% assign animealiste = animealist-e | sort: 'title' | reverse %}
+{% assign animealiste = animealist-e | sort: 'title' %}
 {% for post in animealiste %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -117,7 +117,7 @@ permalink: /anime/list
    <div class='win-head'><a name='I'>I</a></div>
    
 {% assign animealist-i = site.anime | where: "tag", "I" %}
-{% assign animealisti = animealist-i | sort: 'title' | reverse %}
+{% assign animealisti = animealist-i | sort: 'title' %}
 {% for post in animealisti %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
@@ -180,14 +180,18 @@ permalink: /anime/list
   <div class='win-group'>
    <div class='win-head'><a name='S'>S</a></div>
    
-   <!-- KODE UNTUK ANIME "S" DISINI -->
+{% assign animealist-s = site.anime | where: "tag", "S" %}
+{% assign animealists = animealist-s | sort: 'title' %}
+{% for post in animealists %}
+   <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
+{% endfor %}
    
   </div>
   <div class='win-group'>
    <div class='win-head'><a name='T'>T</a></div>
    
 {% assign animealist-t = site.anime | where: "tag", "T" %}
-{% assign animealistt = animealist-t | sort: 'title' | reverse %}
+{% assign animealistt = animealist-t | sort: 'title' %}
 {% for post in animealistt %}
    <div class='win-item'><div class='win-title'><a title='{{ post.title }}' href='{{ post.url }}'>{{ post.title }}</a></div></div>
 {% endfor %}
