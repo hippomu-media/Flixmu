@@ -10,6 +10,7 @@
 <a href='https://prose.io/#flixmu/flixmu.github.io/edit/main/synopsis/{{ page.layout }}/{{ page.data }}/main.md'>Edit Synopsis</a>
 {{ content }}
 
+{% assign video = site.video | where: "category", page.data %}
 {% for video in video %}
 <div class="dbox-title">{{ video.title }} Episode {{ video.episode }}</div>
 <div class="dbox-list">
