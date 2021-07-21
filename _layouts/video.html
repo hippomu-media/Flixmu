@@ -3,14 +3,13 @@ layout: default
 ---
 <body class='gridLayout onItem onPost' id='mainContent'>
 {% include header.html %}
+<script src='//code.jquery.com/jquery-1.12.0.min.js'></script>
+<script src='https://artplayer.org/uncompiled/artplayer.js'></script>
+<script src='https://cdn.bootcss.com/hls.js/0.10.1/hls.js'></script>
 <style>
 .blogContent{display:block}.onPost .blogContent .mainbar{margin-left:auto;margin-right:auto}.onPost .blogContent .sidebar{max-width:var(--post-maxContent);margin-left:auto;margin-right:auto;display:none}.artplayer-app {width: 100%;height: 100%;}.video {overflow: hidden;padding-top: 56.25%;position: relative;}.video .artplayer-app{background: black;position: absolute;margin: 0;top: 0;left: 0;border: 0;width: 100%;height: 100%;z-index:0}.art-contextmenu-info {display: none;}
 @media screen and (max-width:896px){.onPost .blogContent .sidebar{display:none}}
 </style>
-<script src='//code.jquery.com/jquery-1.12.0.min.js'></script>
-<script src='https://artplayer.org/uncompiled/artplayer.js'></script>
-<script src='https://cdn.bootcss.com/hls.js/0.10.1/hls.js'></script>
-
 <div id='player'>
 <div class='video'>
 <div class='artplayer-app' id='player'></div>
