@@ -42,6 +42,31 @@
 {% if page.ms %}
 <span> | </span><a href='https://flixmu.github.io/subtitle/{{ page.tag }}/{{ page.category }}/{{ page.episode }}_ms.srt'>Malaysia</a>
 {% endif %}
+<div>Download Video</div>
+{% if page.size_g %}
+<a href='{{ page.size_g }}'>144p</a>
+{% endif %}
+{% if page.size_a %}
+<span> | </span><a href='{{ page.size_a }}'>180p</a>
+{% endif %}
+{% if page.size_b %}
+<span> | </span><a href='{{ page.size_b }}'>240p</a>
+{% endif %}
+{% if page.size_h %}
+<span> | </span><a href='{{ page.size_h }}'>270p</a>
+{% endif %}
+{% if page.size_c %}
+<span> | </span><a href='{{ page.size_c }}'>360p</a>
+{% endif %}
+{% if page.size_d %}
+<span> | </span><a href='{{ page.size_d }}'>480p</a>
+{% endif %}
+{% if page.size_e %}
+<span> | </span><a href='{{ page.size_e }}'>720p</a>
+{% endif %}
+{% if page.size_f %}
+<span> | </span><a href='{{ page.size_f }}'>1080p</a>
+{% endif %}
 
 <p class='note'>Jika kamu melihat subtitle tidak sesuai, bantu kami memerbaikinya dengan mengikuti tautan Edit Subtitle diatas. (dibutuhkan akun Github)</p>
 </div>
