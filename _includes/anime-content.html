@@ -9,6 +9,56 @@
 <div class='postBody' id='postBody'>
 <a href='https://prose.io/#flixmu/flixmu.github.io/edit/main/synopsis/{{ page.layout }}/{{ page.data }}/main.md'>Edit Synopsis</a>
 {{ content }}
+
+{% for video in video %}
+<div class="dbox-title">{{ video.title }} Episode {{ video.episode }}</div>
+<div class="dbox-list">
+    <strong>Subtitle</strong>
+{% if video.en %}
+<a href='https://flixmu.github.io/subtitle/{{ video.tag }}/{{ video.category }}/{{ video.episode }}_en.srt'>English</a>
+{% endif %}
+{% if video.in %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ video.tag }}/{{ video.category }}/{{ video.episode }}_in.srt'>Indonesia</a>
+{% endif %}
+{% if video.ch %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ video.tag }}/{{ video.category }}/{{ video.episode }}_ch.srt'>China</a>
+{% endif %}
+{% if video.th %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ video.tag }}/{{ video.category }}/{{ video.episode }}_th.srt'>Thailand</a>
+{% endif %}
+{% if video.ms %}
+<span> | </span><a href='https://flixmu.github.io/subtitle/{{ video.tag }}/{{ video.category }}/{{ video.episode }}_ms.srt'>Malaysia</a>
+{% endif %}
+</div>
+<div class="dbox-list">
+    <strong>Video</strong>
+{% if video.size_g %}
+<a href='{{ video.size_g }}'>144p</a>
+{% endif %}
+{% if video.size_a %}
+<span> | </span><a href='{{ video.size_a }}'>180p</a>
+{% endif %}
+{% if video.size_b %}
+<span> | </span><a href='{{ video.size_b }}'>240p</a>
+{% endif %}
+{% if video.size_h %}
+<span> | </span><a href='{{ video.size_h }}'>270p</a>
+{% endif %}
+{% if video.size_c %}
+<span> | </span><a href='{{ video.size_c }}'>360p</a>
+{% endif %}
+{% if video.size_d %}
+<span> | </span><a href='{{ video.size_d }}'>480p</a>
+{% endif %}
+{% if video.size_e %}
+<span> | </span><a href='{{ video.size_e }}'>720p</a>
+{% endif %}
+{% if video.size_f %}
+<span> | </span><a href='{{ video.size_f }}'>1080p</a>
+{% endif %}
+</div>
+{% endfor %}
+
 </div>
 </div>
 </div>
