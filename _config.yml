@@ -55,7 +55,7 @@ pagination:
     before: 2
     after: 2
 
-php_path: __DIR__/../.php/
+php_path: /.php/
 include: [.php]
 
 # exclude:
