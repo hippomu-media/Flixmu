@@ -55,6 +55,9 @@ pagination:
     before: 2
     after: 2
 
+php_path: __DIR__/../.php/
+include: [.php]
+
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
