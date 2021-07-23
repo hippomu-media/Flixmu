@@ -14,6 +14,9 @@ collections:
   video:
     permalink: "/:collection/:categories/:title"
     output: true
+  article:
+    permalink: "/:collection/:title"
+    output: true
 defaults:
 - scope:
     path: _anime
@@ -25,6 +28,11 @@ defaults:
     type: video
   values:
     layout: video
+- scope:
+    path: _article
+    type: article
+  values:
+    layout: article
 
 # Build settings
 plugins:
