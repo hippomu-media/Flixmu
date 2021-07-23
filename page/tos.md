@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flixmu Terms of Use
-permalink: /dmca_policy
+permalink: /tos
 ---
 Flixmu, LLC. ("Flixmu", "we" or "us") provides our website accessible at flixmu.com (the "Site") through which users can participate in an online community dedicated to enjoying anime, premium animation, sci-fi, fantasy and media in all forms (the "Services"). Please read the following important terms and conditions ("Terms of Use") carefully. These Terms of Use and all policies referenced in this document or elsewhere on the Site that are incorporated herein by reference govern your access to and use of the Site and Services. These Terms of Use are a legal agreement between you and Flixmu and apply to you whether you are a Flixmu Member (defined below) or a visitor just browsing the Site (collectively, "Flixmu Users"). These Terms of Use limit Flixmu's liability and obligations to you, grant us certain rights and allow us to change, suspend or terminate your access to and use of the Site and Services.
 
