@@ -24,7 +24,7 @@ published: true
 <script>(localStorage.getItem('list')) === 'listmode' ? document.querySelector('#mainContent').classList.add('gridMode') : document.querySelector('#mainContent').classList.remove('gridMode')</script>
 </div>
 <div class='blogPosts'>
-{% include paginator-content.html %}
+{% include paginator-article.html %}
 </div>
 {% include paginator.html %}
 </div>
