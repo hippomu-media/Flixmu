@@ -11,6 +11,7 @@ gem "jekyll", "~> 4.2.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate"
   gem "jekyll-paginate-v2"
   gem 'jekyll-remote-include', :github => 'netrics/jekyll-remote-include'
 end
