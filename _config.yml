@@ -29,6 +29,7 @@ defaults:
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-paginate-v2
   - jekyll-remote-include
 
