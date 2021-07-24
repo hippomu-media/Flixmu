@@ -43,19 +43,6 @@ compress_html:
   profile: false
   startings: []
 
-pagination:
-  enabled: true
-  per_page: 8
-  offset: 0
-  permalink: '/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail: 
-    before: 2
-    after: 2
-
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
