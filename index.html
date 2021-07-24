@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 permalink: /
 title: Home
 pagination:
@@ -19,7 +19,7 @@ pagination:
 
 <body class='gridLayout gridMode onIndex onHome' id='mainContent'>
 {% include header.html %}
-{% if page.url == "/index.html" %}
+{% if page.layout == "home" %}
 <div class='container' style='position:relative;padding:0px;display:block;width:calc(100% - 0px)'>
 <div class='post-menu'>
 <div class='main-container'>
