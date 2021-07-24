@@ -1,5 +1,38 @@
+{% if page.layout == "category" %}
 {% for post in paginator.posts %}
 {% assign author = site.authors | where: 'short_name', post.author | first %}
+<article class='hentry'>
+<div class='postThumbnail'>
+<a href='{{ post.url }}'>
+<img alt='{{ post.title }}' class='imgThumb lazy' data-src='{{ post.image }}' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+</a>
+</div>
+<div class='postContent'>
+
+<h2 class='postTitle'>
+<a data-text='{{ post.title }}' href='{{ post.url }}'>
+{{ post.title }}
+</a>
+</h2>
+
+<div class='postHeader'>
+<div class='postAuthorName'>
+<div class='authorName fn'>
+<span data-text='
+{{ post.author }}
+'>in {{ post.category }}</span>
+</div>
+</div>
+</div>
+<p class='postEntry snippet'>
+{{ post.description }}
+</p>
+</div>
+</article>
+{% endfor %}
+{% endif %}
+{% if page.layout == "home" %}
+{% for post in paginator.posts %}
 <article class='hentry'>
 <div class='postThumbnail'>
 <a href='{{ post.url }}'>
@@ -29,3 +62,4 @@ Episode {{ post.episode }}
 </div>
 </article>
 {% endfor %}
+{% endif %}
