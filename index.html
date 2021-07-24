@@ -5,7 +5,16 @@ title: Home
 pagination:
   enabled: true
   collection: video
-published: true
+  per_page: 8
+  offset: 0
+  permalink: '/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
 ---
 
 <body class='gridLayout gridMode onIndex onHome' id='mainContent'>
