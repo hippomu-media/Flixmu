@@ -20,7 +20,7 @@ title: Article
 <script>(localStorage.getItem('list')) === 'listmode' ? document.querySelector('#mainContent').classList.add('gridMode') : document.querySelector('#mainContent').classList.remove('gridMode')</script>
 </div>
 <div class='blogPosts'>
-{% for post in paginator.posts %}
+{% for post in paginator.video %}
 {% assign author = site.authors | where: 'short_name', post.author | first %}
 <article class='hentry'>
 <div class='postThumbnail'>
