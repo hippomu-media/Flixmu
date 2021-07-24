@@ -1,0 +1,64 @@
+---
+layout: article
+permalink: /article
+title: Home
+pagination:
+  enabled: true
+  collection: video
+published: true
+---
+<body class='gridLayout gridMode onIndex onHome' id='mainContent'>
+{% include header.html %}
+<!--[ Blog article ]-->
+<div class='blogContent sectionInner'>
+<!--[ Main content ]-->
+<main class='mainbar'>
+<div class='section' id='main-widget'>
+<div class='widget Blog'>
+<div class='blogTitle'>
+<h2 class='title'>Latest Posts</h2>
+<div class='postMode' onclick='gridMode()'>
+<svg class='line svg-1' viewBox='0 0 24 24'><rect height='7' width='7' x='3' y='3'></rect><rect height='7' width='7' x='14' y='3'></rect><rect height='7' width='7' x='14' y='14'></rect><rect height='7' width='7' x='3' y='14'></rect></svg>
+<svg class='line svg-2' viewBox='0 0 24 24'><rect height='7' rx='2' ry='2' width='18' x='3' y='3'></rect><rect height='7' rx='2' ry='2' width='18' x='3' y='14'></rect></svg>
+</div>
+<script>(localStorage.getItem('list')) === 'listmode' ? document.querySelector('#mainContent').classList.add('gridMode') : document.querySelector('#mainContent').classList.remove('gridMode')</script>
+</div>
+<div class='blogPosts'>
+{% for post in paginator.posts %}
+{% assign author = site.authors | where: 'short_name', post.author | first %}
+<article class='hentry'>
+<div class='postThumbnail'>
+<a href='{{ post.url }}'>
+<img alt='{{ post.title }}' class='imgThumb lazy' data-src='{{ post.image }}' src='data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='/>
+</a>
+</div>
+<div class='postContent'>
+    
+<h2 class='postTitle'>
+<a data-text='{{ post.title }}' href='{{ post.url }}'>
+{{ post.title }}
+</a>
+</h2>
+    
+<div class='postHeader'>
+<div class='postAuthorName'>
+<div class='authorName fn'>
+<span data-text='
+{{ post.author }}
+'>in {{ post.category }}</span>
+</div>
+</div>
+</div>
+<p class='postEntry snippet'>
+{{ post.description }}
+</p>
+</div>
+</article>
+{% endfor %}
+</div>
+{% include paginator.html %}
+</div>
+</div>
+</main>
+{% include sidebar.html %}
+</div>
