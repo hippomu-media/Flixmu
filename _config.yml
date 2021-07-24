@@ -43,9 +43,6 @@ compress_html:
   profile: false
   startings: []
 
-pagination:
-  enabled: true
-
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
