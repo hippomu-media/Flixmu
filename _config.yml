@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Flixmu TV
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,6 +14,9 @@ collections:
   video:
     permalink: "/:collection/:categories/:title"
     output: true
+  article:
+    permalink: "/:collection/:title"
+    output: true
 defaults:
 - scope:
     path: _anime
@@ -25,6 +28,11 @@ defaults:
     type: video
   values:
     layout: video
+- scope:
+    path: _article
+    type: article
+  values:
+    layout: article
 
 # Build settings
 plugins:
