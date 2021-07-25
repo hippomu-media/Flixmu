@@ -92,9 +92,9 @@ layout: default
 <script>(localStorage.getItem('list')) === 'listmode' ? document.querySelector('#mainContent').classList.add('gridMode') : document.querySelector('#mainContent').classList.remove('gridMode')</script>
 </div>
 <div class='blogPosts'>
-{% include paginator-content.html %}
-</div>
 {{ content }}
+</div>
+{% include paginator.html %}
 </div>
 </div>
 </main>
