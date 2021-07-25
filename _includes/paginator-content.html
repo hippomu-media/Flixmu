@@ -23,7 +23,7 @@
 </div>
 </div>
 <p class='postEntry snippet'>
-{{ post.description }}
+{{ post.content | remove: '<p>' | remove: '</p>' }}
 </p>
 </div>
 </article>
