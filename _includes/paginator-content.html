@@ -1,5 +1,5 @@
 {% for post in paginator.posts %}
-{% if page.layout == "category-article" %}
+{% if page.layout == "homepage-article" %}
 {% assign author = site.authors | where: 'short_name', post.author | first %}
 <article class='hentry'>
 <div class='postThumbnail'>
