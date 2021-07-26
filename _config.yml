@@ -40,6 +40,8 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-v2
   - jekyll-remote-include
+  - jekyll-last-modified-at
+  - jekyll-timeago
 
 compress_html:
   clippings: []
