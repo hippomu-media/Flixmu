@@ -27,6 +27,7 @@ Oleh. <span data-text='
 
 <div class='postInfo'>
 <time class='postTimestamp updated' data-text='{{ post.date | timeago }}' datetime='{{ post.last_modified_at | date_to_xmlschema }}' title='Last updated: {{ post.last_modified_at | date_to_xmlschema }}'></time>
+<script id="dsq-count-scr" src="//flixmu.disqus.com/count.js" async></script>
 <a aria-label='Comments' class='commentsBubble' href='{{ post.url }}#disqus_thread'></a>
 </div>
 
@@ -62,6 +63,7 @@ Episode {{ post.episode }}
 
 <div class='postInfo'>
 <time class='postTimestamp updated' data-text=''></time>
+<script id="dsq-count-scr" src="//flixmu.disqus.com/count.js" async></script>
 <a aria-label='Comments' class='commentsBubble' href='{{ post.url }}#disqus_thread'></a>
 </div>
 
