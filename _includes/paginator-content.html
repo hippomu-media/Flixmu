@@ -24,6 +24,12 @@ Oleh. <span data-text='
 </div>
 <p class='postEntry snippet'>
 {{ post.description }}</p>
+
+<div class='postInfo'>
+<time class='postTimestamp updated' data-text='{{ post.date | timeago }}' datetime='{{ post.last_modified_at | date_to_xmlschema }}' title='Last updated: {{ post.last_modified_at | date_to_xmlschema }}'></time>
+<a aria-label='Comments' class='commentsBubble' href='{{ post.url }}#disqus_thread'></a>
+</div>
+
 </div>
 </article>
 {% endif %}
@@ -53,6 +59,12 @@ Episode {{ post.episode }}
 <p class='postEntry snippet'>
 {{ post.content | remove: '<p>' | remove: '</p>' }}
 </p>
+
+<div class='postInfo'>
+<time class='postTimestamp updated' data-text=''></time>
+<a aria-label='Comments' class='commentsBubble' href='{{ post.url }}#disqus_thread'></a>
+</div>
+
 </div>
 </article>
 {% endif %}
