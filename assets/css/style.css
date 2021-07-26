@@ -218,9 +218,7 @@ article .postLabel > *:not(:last-child):after{content:','}
 article .postInfo{display:flex;align-items:baseline;justify-content:space-between;margin-top:18px;font-size:90%;line-height:1.7em}
 article .postTimestamp, article .commentsBubble{color:var(--dark-textAlt)}
 article .postTimestamp:before, article .commentsBubble:before, article .postMore:before{content:attr(data-text)}
-article .commentsBubble{display:flex;align-items:flex-start;margin-right:0px; margin-left:auto;line-height:normal}
-article .commentsBubble svg{width:20px;height:18px;margin-left:5px;fill:var(--dark-textAlt)}
-article .commentsBubble svg.line{fill:none;stroke:var(--dark-textAlt)}
+article .commentsBubble{display:flex;align-items:flex-start;margin:0px; float:right;line-height:normal}
 article .postMore{display:flex;align-items:center;margin:0;opacity:0;transition:var(--transition-2);-webkit-transition:var(--transition-2)}
 article .postMore svg{height:18px;margin-left:5px;stroke:var(--link-color)}
 article:hover .postMore{opacity:1}
