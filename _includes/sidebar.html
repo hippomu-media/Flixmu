@@ -6,7 +6,7 @@
 <div class='widget-content'>
 <div class='itemPopulars' role='feed'>
 
-{% for post in site.article limit:10 %}
+{% for post in site.article limit:5 | reverse %}
 {% assign author = site.authors | where: 'short_name', post.author | first %}
 <article class='itemPopular mostPopular'>
 
