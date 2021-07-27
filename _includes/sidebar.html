@@ -41,7 +41,7 @@
 {% endif %}
 <div class='postInfo'>
 <time class='postTimestamp updated' data-text='{{ post.date | timeago }}' datetime='{{ post.last_modified_at | date_to_xmlschema }}' title='Last updated: {{ post.last_modified_at | date_to_xmlschema }}'></time>
-<a aria-label='Comments' class='commentsBubble' data-text='25' href='#'>
+<a aria-label='Comments' class='commentsBubble' data-text='0' href='{{ post.url }}#disqus_thread'>
 </a>
 </div>
 </div>
