@@ -42,6 +42,7 @@ plugins:
   - jekyll-remote-include
   - jekyll-last-modified-at
   - jekyll-timeago
+  - jekyll-last-modified-at
 
 compress_html:
   clippings: []
