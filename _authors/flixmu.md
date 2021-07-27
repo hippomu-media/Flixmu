@@ -1,6 +1,6 @@
 ---
 short_name: flixmu
-name: Flixmu TV
+name: flixmu
 position: Founder & CEO
 site:           https://hippomu.com
 avatar:         //2.bp.blogspot.com/-cwTEdwIWwyw/X61OMPG693I/AAAAAAAAAAg/Ra4rHKFIqSE0ygf46NBLoTQh4dLLRbI8QCK4BGAYYCw/w40-h40-p-k-no-nu/1586855312963_image.jpg
