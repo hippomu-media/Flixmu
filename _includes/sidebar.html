@@ -23,7 +23,8 @@ Advertise
 <div class='widget-content'>
 <div class='itemPopulars' role='feed'>
 
-{% for post in site.article limit:5 | reverse %}
+{% assign items = site.article | sort: 'some_field' | reverse %}
+{% for post in items limit:5 %}
 {% assign author = site.authors | where: 'short_name', post.author | first %}
 <article class='itemPopular mostPopular'>
 
