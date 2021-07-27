@@ -1,5 +1,5 @@
 ---
-author: Flixmu TV
+author: flixmu
 title: Rekomendasi Anime Isekai Terbaik dan Terbaru 2021 &num;1
 description: Anime Isekai adalah genre anime yang karakter utamanya tiba-tiba memainkan peran besar di dunia lain tempat dia bereinkarnasi.
 date: 2021-06-26 14:49:00
