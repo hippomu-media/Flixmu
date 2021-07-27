@@ -7,10 +7,7 @@
 <div class='itemPopulars' role='feed'>
 
 {% for post in site.article limit:10 %}
-  
-    {{ post.image }}
-  
-
+{% assign author = site.authors | where: 'short_name', post.author | first %}
 <article class='itemPopular mostPopular'>
 
 {% if forloop.index0 == 0 %}
@@ -31,7 +28,7 @@
 <span data-text='{{ author.name }}'></span>
 </div>
 <div class='postLabel' data-text='in'>
-<a aria-label='Features' data-text='Features' href='#' rel='tag'>
+<a aria-label='{{ post.category }}' data-text='{{ post.category }}' href='' rel='tag'>
 </a>
 </div>
 </div>
