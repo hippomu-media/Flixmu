@@ -994,6 +994,3 @@ footer .toTop:before{content:'Top'}
 .darkMode .headerMenu .section{background-color:var(--dark-bgSec)}
 .darkMode .headerMenu ul.htmlMenu ul{background-color:transparent}
 }
-/* Sample Ad ( Delete if ad unit has ben added ) */
-.ads-here{position:relative;display:flex;align-items:center;justify-content:center;min-height:90px;padding:15px;border:1px solid rgba(0,0,0,.05);color:#969896;font-size:10px;font-family:var(--font-body)} .ads-here:before{content:'Sample ad'}
-.ads-here:after{content:'';display:block;width:50px;height:8px;background-color:rgba(0,0,0,.05);border-radius:0 0 0 8px;position:absolute;top:0;right:0}
