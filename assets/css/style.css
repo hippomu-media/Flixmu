@@ -994,3 +994,4 @@ footer .toTop:before{content:'Top'}
 .darkMode .headerMenu .section{background-color:var(--dark-bgSec)}
 .darkMode .headerMenu ul.htmlMenu ul{background-color:transparent}
 }
+.ads-here{position:relative;display:flex;align-items:center;justify-content:center;min-height:90px;padding:15px}
