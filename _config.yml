@@ -76,6 +76,17 @@ jekyll_timeago:
   days: 'days'
   day: 'day'
 
+feed:
+  collections:
+    - video
+
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: plaintext
+
+sass:
+  style: compressed
+
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
