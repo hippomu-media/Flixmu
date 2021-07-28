@@ -215,7 +215,7 @@ article .postLabel:before{content:attr(data-text) ' '; color:var(--dark-textAlt)
 article .postLabel > *{font-weight:400;color:inherit}
 article .postLabel > *:before{content:attr(data-text)}
 article .postLabel > *:not(:last-child):after{content:','}
-article .postInfo{display:flex;align-items:baseline;justify-content:space-between;margin-top:18px;font-size:90%;line-height:1.7em}
+article .postInfo{display:flex;align-items:center;justify-content:space-between;margin-top:18px;font-size:90%;line-height:1.7em}
 article .postTimestamp, article .commentsBubble{color:var(--dark-textAlt)}
 article .postTimestamp:before, article .postMore:before{content:attr(data-text)}
 article .commentsBubble{display:flex;align-items:flex-start; line-height:normal}
