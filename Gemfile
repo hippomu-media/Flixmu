@@ -17,7 +17,6 @@ group :jekyll_plugins do
   gem "jekyll-last-modified-at"
   gem 'jekyll-timeago'
   gem "jekyll-last-modified-at"
-  gem 'jekyll_custom_permalink'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
