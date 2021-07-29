@@ -20,7 +20,7 @@
 {% if page.layout != 'error' %}
   <!--[ Browser data, description and keyword ]-->
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}">
-{% if page.layout == 'default' %}
+{% if page.layout == 'home' %}
   <meta content='{{ site.description }}' name='description'/>
   <meta content='Stream Anime, Dorama and Western Movie' name='keywords'/>
 {% endif %}
@@ -49,6 +49,46 @@
   <link href='{{ 'favicon.ico' | relative_url }}' rel='apple-touch-icon' sizes='152x152'/>
   <link href='{{ 'favicon.ico' | relative_url }}' rel='icon' type='image/x-icon'/>
   <link href='{{ 'favicon.ico' | relative_url }}' rel='shortcut icon' type='image/x-icon'/>
+
+{% if page.layout != 'error' %}
+{% if page.layout != 'page' %}
+  <!--[ Open graph ]-->
+{% if page.layout == 'home' %}
+  <meta content='{{ site.title }}' property='og:title'/>
+  <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
+  <meta content='{{ site.title }}' property='og:site_name'/>
+  <meta content='website' property='og:type'/>
+  <meta content='{{ site.description }}' property='og:description'/>
+{% endif %}
+{% if page.layout == 'anime' %}
+  <meta content='{{ page.title }}' property='og:title'/>
+  <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
+  <meta content='{{ site.title }}' property='og:site_name'/>
+  <meta content='article' property='og:type'/>
+  <meta content='{{ page.content }}' property='og:description'/>
+  <meta content='{{ page.title }}' property='og:image:alt'/>
+  <meta content='https://images.weserv.nl/?url={{ site.url }}/media/{{ page.layout }}/{{ page.data }}/.webp&w=600&h=300&output=webp&fit=cover' property='og:image'/>
+{% endif %}
+{% if page.layout == 'video' %}
+  <meta content='{{ page.title }}' property='og:title'/>
+  <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
+  <meta content='{{ site.title }}' property='og:site_name'/>
+  <meta content='article' property='og:type'/>
+  <meta content='{{ page.content }}' property='og:description'/>
+  <meta content='{{ page.title }}' property='og:image:alt'/>
+  <meta content='https://images.weserv.nl/?url={{ site.url }}/media/{{ page.tag }}/{{ page.category }}/{{ page.slug }}.webp&w=600&h=300&output=webp&fit=cover' property='og:image'/>
+{% endif %}
+{% if page.layout == 'article' %}
+  <meta content='{{ page.title }}' property='og:title'/>
+  <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
+  <meta content='{{ site.title }}' property='og:site_name'/>
+  <meta content='article' property='og:type'/>
+  <meta content='{{ page.description }}' property='og:description'/>
+  <meta content='{{ page.title }}' property='og:image:alt'/>
+  <meta content='{{ page.image }}' property='og:image'/>
+{% endif %}
+{% endif %}
+{% endif %}
 
 
 <link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
