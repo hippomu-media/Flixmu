@@ -1,0 +1,21 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{% for anime in site.anime %}
+    <url>
+      <loc>{{ site.url }}{{ anime.url }}</loc>{% if anime.lastmod == null %}
+        <lastmod>{{ anime.date | date_to_xmlschema }}</lastmod>{% else %}
+        <lastmod>{{ anime.lastmod | date_to_xmlschema }}</lastmod>{% endif %}
+    </url>{% endfor %}{% for video in site.video %}
+    <url>
+      <loc>{{ site.url }}{{ video.url }}</loc>{% if video.lastmod == null %}
+        <lastmod>{{ video.date | date_to_xmlschema }}</lastmod>{% else %}
+        <lastmod>{{ video.lastmod | date_to_xmlschema }}</lastmod>{% endif %}
+    </url>{% endfor %}{% for article in site.article %}
+    <url>
+      <loc>{{ site.url }}{{ article.url }}</loc>{% if article.lastmod == null %}
+        <lastmod>{{ article.date | date_to_xmlschema }}</lastmod>{% else %}
+        <lastmod>{{ article.lastmod | date_to_xmlschema }}</lastmod>{% endif %}
+    </url>{% endfor %}
+</urlset>
