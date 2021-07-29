@@ -5,6 +5,9 @@ baseurl: ""
 url: "https://flixmu.com" 
 
 collections:
+  authors:
+    permalink: "/authors/:title"
+    output: true
   anime:
     permalink: "/:collection/:title"
     output: true
@@ -15,6 +18,11 @@ collections:
     permalink: "/:collection/:title"
     output: true
 defaults:
+- scope:
+    path: _authors
+    type: authors
+  values:
+    layout: authors
 - scope:
     path: _anime
     type: anime
