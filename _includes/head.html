@@ -3,7 +3,7 @@
 <title>{{ site.title }}</title>
 {% endif %}
 {% if page.layout == 'video' %}
-<title>{{ page.title }} - {{ page.episode }}</title>
+<title>{{ page.title }} - Episode {{ page.episode }}</title>
 {% endif %}
 {% if page.layout == 'article' %}
 <title>{{ page.title }}</title>
@@ -58,7 +58,7 @@
   <meta content='https://images.weserv.nl/?url={{ site.url }}/media/{{ page.layout }}/{{ page.data }}/thumbnail.webp&w=600&h=300&output=webp&fit=cover' property='og:image'/>
 {% endif %}
 {% if page.layout == 'video' %}
-  <meta content='{{ page.title }} - {{ page.episode }}' property='og:title'/>
+  <meta content='{{ page.title }} - Episode {{ page.episode }}' property='og:title'/>
   <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
   <meta content='{{ site.title }}' property='og:site_name'/>
   <meta content='article' property='og:type'/>
