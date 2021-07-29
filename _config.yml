@@ -9,8 +9,7 @@ collections:
     permalink: "/:collection/:title"
     output: true
   video:
-    custom_permalink_placeholders: ["tag"]
-    permalink: "/:tag/:categories/:title"
+    permalink: "/:collection/:categories/:title"
     output: true
   article:
     permalink: "/:collection/:title"
@@ -41,7 +40,6 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-timeago
   - jekyll-last-modified-at
-  - jekyll_custom_permalink
 
 compress_html:
   clippings: []
