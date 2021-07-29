@@ -9,7 +9,7 @@ collections:
     permalink: "/:collection/:title"
     output: true
   video:
-    permalink: "/:collection/:categories/:title"
+    permalink: "/:tags/:categories/:title"
     output: true
   article:
     permalink: "/:collection/:title"
