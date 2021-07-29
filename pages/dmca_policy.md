@@ -29,24 +29,24 @@ Please also note that under Section 512(f) any person who knowingly materially m
 **Counter-Notification**
 If you elect to send us a counter notice, to be effective it must be a written communication provided to our designated agent that includes substantially the following (please consult your legal counsel or see 17 U.S.C. Section 512(g)(3) to confirm these requirements):
 
-Shows
-Manga
-News
-Games
-Store
-PremiumTRY FREE
-Try Beta
-Login
+* Shows
+* Manga
+* News
+* Games
+* Store
+* PremiumTRY FREE
+* Try Beta
+* Login
  
 Queue
  
 Search
 Copyright Infringement Notification
-Crunchyroll.com respects all copyright and license owners and adheres to the Digital Millenium Copyright Act.
+Flixmu.com respects all copyright and license owners and adheres to the Digital Millenium Copyright Act.
 
 If you are a content owner and would like us to help distribute your content, contact us.
 If you would like your content removed from this website, follow the instructions below.
-To file a copyright infringement notification with Crunchyroll, you will need to send a written communication that includes substantially the following (please consult your legal counsel or see Section 512(c)(3) of the Copyright Act to confirm these requirements):
+To file a copyright infringement notification with Flixmu, you will need to send a written communication that includes substantially the following (please consult your legal counsel or see Section 512(c)(3) of the Copyright Act to confirm these requirements):
 
 A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
@@ -57,8 +57,8 @@ A statement that the information in the notification is accurate, and under pena
 Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints
-Crunchyroll.com
-Email: copyright at crunchyroll dot com
+Flixmu.com
+Email: flixmu.com@gmail.com
 Fax: 415.796.3561
 
 Please also note that under Section 512(f) any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
@@ -79,6 +79,6 @@ Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints
 Flixmu.com
-Email: dmca@flixmu.com
+Email: flixmu.com@gmail.com
 
 Please note that under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Please also be advised that we enforce a policy that provides for the termination in appropriate circumstances of subscribers who are repeat infringers.
