@@ -72,7 +72,7 @@ If you elect to send us a counter notice, to be effective it must be a written c
 
 **DISCLAIMER**
 
-None of the all files and video listed in this website are hosted on the server of https://flixmu.com all point to content hosted on third party websites. https://flixmu.com does not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of pictures. We just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to animevy.id@gmail.com the content will be immediately removed.
+None of the all files and video listed in this website are hosted on the server of https://flixmu.com all point to content hosted on third party websites. https://flixmu.com does not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of pictures. We just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to flixmu.com@gmail.com the content will be immediately removed.
 Thank you.
 
 Such written notice should be sent to our designated agent as follows:
