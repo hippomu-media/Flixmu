@@ -17,7 +17,7 @@
 		{% assign feed_items = site.feed_items | default: 10 %}
                 {% assign items = site.video | sort: 'some_field' | reverse %}
 		{% for post in items limit:feed_items %}
-			<item>
+			<entry>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.author.name %}
 					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
@@ -30,7 +30,7 @@
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-			</item>
+			</entry>
 		{% endfor %}
 	</channel>
 </rss>
