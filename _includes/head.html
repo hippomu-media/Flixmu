@@ -17,6 +17,38 @@
 <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
 <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
 
+{% if page.layout != 'error' %}
+  <!--[ Browser data, description and keyword ]-->
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}">
+{% if page.layout == 'default' %}
+  <meta content='{{ site.description }}' name='description'/>
+  <meta content='Stream Anime, Dorama and Western Movie' name='keywords'/>
+{% endif %}
+{% if page.layout == 'video' %}
+  <meta content='{{ page.content }}' name='description'/>
+  <meta content='{{ page.title }}, {{ page.tags | sort | join: ", " }}' name='keywords'/>
+{% endif %}
+{% if page.layout == 'article' %}
+  <meta content='{{ page.description }}' name='description'/>
+  <meta content='{{ page.title }}, {{ page.tags | sort | join: ", " }}' name='keywords'/>
+{% endif %}
+{% if page.layout == 'anime' %}
+  <meta content='{{ page.content }}' name='description'/>
+  <meta content='{{ page.title }}, {{ page.tags | sort | join: ", " }}' name='description'/>
+{% endif %}
+{% endif %}
+
+  <!--[ Theme color ]-->
+  <meta content='#ffffff' name='theme-color'/>
+  <meta content='#ffffff' name='msapplication-navbutton-color'/>
+  <meta content='#ffffff' name='apple-mobile-web-app-status-bar-style'/>
+  <meta content='yes' name='apple-mobile-web-app-capable'/>
+
+  <!--[ Favicon ]-->
+  <link href='{{ 'favicon.ico' | relative_url }}' rel='apple-touch-icon' sizes='120x120'/>
+  <link href='{{ 'favicon.ico' | relative_url }}' rel='apple-touch-icon' sizes='152x152'/>
+  <link href='{{ 'favicon.ico' | relative_url }}' rel='icon' type='image/x-icon'/>
+  <link href='{{ 'favicon.ico' | relative_url }}' rel='shortcut icon' type='image/x-icon'/>
 
 
 <link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
