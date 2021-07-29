@@ -70,6 +70,10 @@ If you elect to send us a counter notice, to be effective it must be a written c
 3. A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
 4. The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
 
+**DISCLAIMER**
+None of the all files and video listed in this website are hosted on the server of https://flixmu.com all point to content hosted on third party websites. https://flixmu.com does not accept responsibility for content hosted on third party websites and does not have any involvement in the downloading/uploading of pictures. We just post links available in internet. If you think any of the contents of this site infringes any intellectual property law and you hold the copyright of that content please report it to animevy.id@gmail.com the content will be immediately removed.
+Thank you.
+
 Such written notice should be sent to our designated agent as follows:
 
 DMCA Complaints
