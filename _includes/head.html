@@ -3,13 +3,13 @@
 <title>{{ site.title }}</title>
 {% endif %}
 {% if page.layout == 'video' %}
-<title>{{ page.title }} - Episode {{ page.episode }}</title>
+<title>{{ page.title | replace: "'","&apos;" }} - Episode {{ page.episode }}</title>
 {% endif %}
 {% if page.layout == 'article' %}
 <title>{{ page.title }}</title>
 {% endif %}
 {% if page.layout == 'anime' %}
-<title>{{ page.title }}</title>
+<title>{{ page.title | replace: "'","&apos;" }}</title>
 {% endif %}
 
 <!--[ Meta for browser ]-->
@@ -49,7 +49,7 @@
   <meta content='{{ site.description }}' property='og:description'/>
 {% endif %}
 {% if page.layout == 'anime' %}
-  <meta content='{{ page.title | xml_escape }}' property='og:title'/>
+  <meta content='{{ page.title | replace: "'","&apos;" }}' property='og:title'/>
   <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
   <meta content='{{ site.title }}' property='og:site_name'/>
   <meta content='article' property='og:type'/>
@@ -58,11 +58,11 @@
   <meta content='https://images.weserv.nl/?url={{ site.url }}/media/{{ page.layout }}/{{ page.data }}/thumbnail.webp&w=1200&h=630&output=webp&fit=cover' property='og:image'/>
 {% endif %}
 {% if page.layout == 'video' %}
-  <meta content='{{ page.title | xml_escape }} - Episode {{ page.episode }}' property='og:title'/>
+  <meta content='{{ page.title | replace: "'","&apos;" }} - Episode {{ page.episode }}' property='og:title'/>
   <meta content="{{ site.url }}{{ page.url | replace:'index.html','' | replace: ' ','-' }}" property='og:url'/>
   <meta content='{{ site.title }}' property='og:site_name'/>
   <meta content='article' property='og:type'/>
-  <meta content='Download and Watch {{ page.title | xml_escape }} Episode {{ page.episode }} Subtitle Indonesia, Subtitle English and more. Resolution 240p, 360p, 480p, 720p ,1080p on Flixmu TV' property='og:description'/>
+  <meta content='Download and Watch {{ page.title | replace: "'","&apos;" }} Episode {{ page.episode }} Subtitle Indonesia, Subtitle English and more. Resolution 240p, 360p, 480p, 720p ,1080p on Flixmu TV' property='og:description'/>
   <meta content='{{ page.title | xml_escape }}' property='og:image:alt'/>
   <meta content='https://images.weserv.nl/?url={{ site.url }}/media/{{ page.tag }}/{{ page.category }}/{{ page.slug }}.webp&w=1200&h=630&output=webp&fit=cover' property='og:image'/>
 {% endif %}
