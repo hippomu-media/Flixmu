@@ -8,6 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.0"
+gem "addressable", ">= 2.8.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
